@@ -1,0 +1,46 @@
+{
+  "id": "schedule-recovery-options",
+  "name": "Schedule recovery options",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "When a committed milestone slips, the project manager brings the sponsor two to four ways back: what each changes, the dates it gives every later milestone and dependency, and the assumptions it rests on. The sponsor chooses; delivery leads confirm the dates.",
+  "directory": "https://fullypowered.ai/capabilities/schedule-recovery-options/",
+  "primary_function": "functions/project-and-delivery",
+  "functions": [
+    "functions/project-and-delivery"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/construction",
+    "industries/engineering-firms"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/established-businesses"
+  ],
+  "related": [
+    "project-status-report",
+    "premortem-before-a-decision",
+    "decision-log"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of project and delivery work."
+    }
+  ]
+}

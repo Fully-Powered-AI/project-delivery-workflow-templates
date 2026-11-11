@@ -1,0 +1,47 @@
+{
+  "id": "scope-change-impact-review",
+  "name": "Scope change impact review",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "When new work turns up in a project plan, the project manager gets one review: every deliverable compared with the agreed baseline, each addition marked approved or not, its estimated effect on effort, cost and the end date, and the decision the sponsor has to make. The sponsor accepts or declines each one.",
+  "directory": "https://fullypowered.ai/capabilities/scope-change-impact-review/",
+  "primary_function": "functions/project-and-delivery",
+  "functions": [
+    "functions/project-and-delivery"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/engineering-firms",
+    "industries/construction",
+    "industries/marketing-and-advertising"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/established-businesses"
+  ],
+  "related": [
+    "project-status-report",
+    "decision-log",
+    "client-status-update-preparation"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of project and delivery work, the review of extra work entering delivery in particular, written up as this capability template."
+    }
+  ]
+}

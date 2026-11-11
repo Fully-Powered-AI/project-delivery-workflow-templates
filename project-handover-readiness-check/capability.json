@@ -1,0 +1,48 @@
+{
+  "id": "project-handover-readiness-check",
+  "name": "Project handover readiness check",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "When a finished deliverable is ready for the team that will run it, the project manager brings one checklist against that team's own requirements: acceptance evidence, instructions, access, training, support owners and open items. The receiving owner accepts or names the conditions still to meet.",
+  "directory": "https://fullypowered.ai/capabilities/project-handover-readiness-check/",
+  "primary_function": "functions/project-and-delivery",
+  "functions": [
+    "functions/project-and-delivery",
+    "functions/operations-and-process-improvement"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/software-technology",
+    "industries/construction",
+    "industries/engineering-firms"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/established-businesses"
+  ],
+  "related": [
+    "pilot-acceptance-test-preparation",
+    "sop-from-how-the-work-is-done",
+    "project-status-report"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own method for checking a handover against the receiving team's written requirements: six fixed registers with set column headings and a stop on any heading that does not match, a fixed list of the evidence each requirement may ask for, a rule that only what has happened by the check date counts, a document never standing in for the receiving team doing the work, support owners counted only once they have accepted, gaps in support cover counted in days, conditions written as what must be true, and an acceptance decision left blank for the receiving owner."
+    }
+  ]
+}

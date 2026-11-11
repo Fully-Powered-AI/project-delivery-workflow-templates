@@ -1,0 +1,68 @@
+{
+  "id": "project-intake-and-capacity-review",
+  "name": "Project intake and capacity review",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "When a new initiative is proposed, the portfolio owner sees it scored on the business's own criteria beside the projects already committed, the delivery days it would use month by month, and what it would crowd out or push later. The owner accepts, defers or rejects it.",
+  "directory": "https://fullypowered.ai/capabilities/project-intake-and-capacity-review/",
+  "primary_function": "functions/project-and-delivery",
+  "functions": [
+    "functions/project-and-delivery",
+    "functions/operations-and-process-improvement"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/marketing-and-advertising",
+    "industries/software-technology",
+    "industries/engineering-firms"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "project-status-report",
+    "headcount-plan",
+    "workflow-fit-check"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own rules for the review: the business's own criteria with a written meaning for each score, evidence quoted for every proposed score, monthly load by role with and without the proposal, headroom under a ceiling, committed work listed lowest score first with fixed work kept apart, a month-by-month test of later start months for the proposal, stops on unmatched headings and missing capacity, and a decision left entirely to the portfolio owner."
+    },
+    {
+      "kind": "third-party",
+      "repository": "alirezarezvani/claude-skills",
+      "commit": "19392f7a08264ed00486a251f5b2098321771f94",
+      "path": "project-management/skills/senior-pm/SKILL.md",
+      "licence": "MIT",
+      "contribution": "The idea of planning a team's load to a sustainable range rather than to full, and of testing a change to resources on paper before committing to it (the guide's general what-if on resource reallocation, and the add-a-project scenario and the 85% over-allocation alert in its scripts/resource_capacity_planner.py, read as text only); the monthly start-shift test is Fully Powered AI's own.",
+      "text_reused": false,
+      "notice": "notices/alirezarezvani-claude-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "alirezarezvani/claude-skills",
+      "commit": "19392f7a08264ed00486a251f5b2098321771f94",
+      "path": "project-management/skills/senior-pm/references/portfolio-prioritization-models.md",
+      "licence": "MIT",
+      "contribution": "The idea of a weighted scoring matrix: several criteria with percentage weights, a 1 to 5 score on each, and one combined score used to rank initiatives against each other.",
+      "text_reused": false,
+      "notice": "notices/alirezarezvani-claude-skills-LICENSE.txt"
+    }
+  ]
+}

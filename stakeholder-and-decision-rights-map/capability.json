@@ -1,0 +1,69 @@
+{
+  "id": "stakeholder-and-decision-rights-map",
+  "name": "Stakeholder and decision rights map",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Before kickoff, the project manager holds one map of everyone the project touches: each group placed by influence and interest, every key decision with exactly one accountable owner, the decision makers still missing, and who hears what, when and from whom. The sponsor confirms every decision right.",
+  "directory": "https://fullypowered.ai/capabilities/stakeholder-and-decision-rights-map/",
+  "primary_function": "functions/project-and-delivery",
+  "functions": [
+    "functions/project-and-delivery",
+    "functions/operations-and-process-improvement"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/manufacturing",
+    "industries/logistics-and-trade",
+    "industries/construction"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling",
+    "situations/acquisitions-and-integration"
+  ],
+  "related": [
+    "project-status-report",
+    "decision-log",
+    "internal-change-announcement"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own rules for the map: default headings with a stop on any mismatch, placement tied to what a group controls and how its work changes, the project manager's placement kept with differences shown, eight coverage questions, five standard decisions, accountable owners checked against vacancies on the date due, consult-by and tell-by dates in working days, a named messenger for every group, stated concerns only, and the sponsor's confirmation."
+    },
+    {
+      "kind": "third-party",
+      "repository": "qa-aman/claude-skills",
+      "commit": "653eede4e080387b6b1f08009ae65f5cb21f5de0",
+      "path": "skills/by-role/business-analyst/stakeholder-map/SKILL.md",
+      "licence": "MIT",
+      "contribution": "Sweeping a broad set of affected groups before mapping; the four-way grid of influence against interest; a decision chart giving each decision a single accountable owner and treating a decision without one as a problem to settle; a contact plan for each group; and revisiting the map as the project moves from one phase to the next.",
+      "text_reused": false,
+      "notice": "notices/qa-aman-claude-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "qa-aman/claude-skills",
+      "commit": "653eede4e080387b6b1f08009ae65f5cb21f5de0",
+      "path": "skills/by-role/business-analyst/stakeholder-map/references/stakeholder-strategies.md",
+      "licence": "MIT",
+      "contribution": "A default contact rhythm and channel for each of the grid's four groups, and the signs, such as a change of role or a reorganisation, that a group's place on the grid has moved.",
+      "text_reused": false,
+      "notice": "notices/qa-aman-claude-skills-LICENSE.txt"
+    }
+  ]
+}
