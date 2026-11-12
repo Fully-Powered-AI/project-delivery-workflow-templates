@@ -2,7 +2,7 @@
 
 When new work turns up in a project plan, the project manager gets one review: every deliverable compared with the agreed baseline, each addition marked approved or not, its estimated effect on effort, cost and the end date, and the decision the sponsor has to make. The sponsor accepts or declines each one.
 
-*Capability template · Project and delivery · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/scope-change-impact-review/)*
+*Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/scope-change-impact-review/)*
 
 ## The outcome
 
@@ -51,9 +51,9 @@ Name who sponsors each project and which roles may approve a change; some compan
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template from its own published map of project and delivery work. It was editorially reviewed on 10 November 2026. It was tried once on its invented example on 10 November 2026 in Claude, and the run matched the example in every figure, date, order and count. It left a few points for judgement, which the published record lists: what the money figure in the position is, whether a moved date needs its own approval, and how to treat a change the requester made themselves. Small clarifications made afterward have not been run again. It has not yet been tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template from its own published map of project and delivery work. It was editorially reviewed on 10 November 2026. It was tried once on its invented example on 10 November 2026 in Claude, and the run matched the example in every figure, date, order and count. It left a few points for judgement, which the published record lists: what the money figure in the position is, whether a moved date needs its own approval, and how to treat a change the requester made themselves. Small clarifications made afterward have not been run again. It has not yet been tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three past changes your project manager remembers, plus hard cases written in advance: an addition agreed only in a meeting, a deliverable that grew from 40 items to 55, a declined change still in the plan, a change with no estimate, and two changes that each move the end date. The project manager checks every figure against the estimates and the change log before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) sets those cases up, and [Decision log](https://fullypowered.ai/capabilities/decision-log/) keeps the sponsor's answers once they are given.
+Testing in your environment means running it on two or three past changes your project manager remembers, plus hard cases written in advance: an addition agreed only in a meeting, a deliverable that grew from 40 items to 55, a declined change still in the plan, a change with no estimate, and two changes that each move the end date. The project manager checks every figure against the estimates and the change log before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [Decision log](https://fullypowered.ai/workflows/decision-log/) keeps the sponsor's answers once they are given.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -64,11 +64,11 @@ Testing in your environment means running it on two or three past changes your p
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -78,12 +78,12 @@ Testing in your environment means running it on two or three past changes your p
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Project status report](https://fullypowered.ai/capabilities/project-status-report/)
-- [Decision log](https://fullypowered.ai/capabilities/decision-log/)
-- [Client-status update preparation](https://fullypowered.ai/capabilities/client-status-update-preparation/)
+- [Project status report](../project-status-report/)
+- [Decision log](https://fullypowered.ai/workflow templates/decision-log/)
+- [Client-status update preparation](https://fullypowered.ai/workflow templates/client-status-update-preparation/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

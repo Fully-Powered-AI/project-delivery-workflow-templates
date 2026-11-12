@@ -2,7 +2,7 @@
 
 When a phase or a project ends, the project manager gets one blameless review: whether it achieved what it was for, how scope, schedule and budget moved and why, whether the success measures were the right ones, and practice changes for the team to choose, each with an owner and a follow-up date.
 
-*Capability template · Project and delivery · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/project-lessons-review/)*
+*Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/project-lessons-review/)*
 
 ## The outcome
 
@@ -46,13 +46,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## What has to change for your company
 
-Write numbered aims into every project charter, and give every success measure its aim, a starting value, a target and a level agreed in advance as a miss. Keep a change log that records each change's effect on days and cost and who approved it; the review is only as clear as that log. Decide whether you count calendar or working days. Map your tracker's export headings once. Decide where chosen changes live, such as a project playbook, and who keeps it. For incidents, launches and lost deals, use [Incident investigation and corrective actions](https://fullypowered.ai/capabilities/incident-investigation-and-corrective-actions/), [Launch checklist](https://fullypowered.ai/capabilities/launch-checklist/) and [Win-loss review](https://fullypowered.ai/capabilities/win-loss-review/); while a project is still running, use [Project status report](https://fullypowered.ai/capabilities/project-status-report/). It runs in ChatGPT, Claude, Copilot or Gemini from files and notes you supply; it needs no connection to your project software.
+Write numbered aims into every project charter, and give every success measure its aim, a starting value, a target and a level agreed in advance as a miss. Keep a change log that records each change's effect on days and cost and who approved it; the review is only as clear as that log. Decide whether you count calendar or working days. Map your tracker's export headings once. Decide where chosen changes live, such as a project playbook, and who keeps it. For incidents, launches and lost deals, use [Incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/), [Launch checklist](https://fullypowered.ai/workflows/launch-checklist/) and [Win-loss review](https://fullypowered.ai/workflows/win-loss-review/); while a project is still running, use [Project status report](https://fullypowered.ai/workflows/project-status-report/). It runs in ChatGPT, Claude, Copilot or Gemini from files and notes you supply; it needs no connection to your project software.
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template, drawing on one published open-source method credited in its sources. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026, in one run; the record of that run is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template, drawing on one published open-source method credited in its sources. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026, in one run; the record of that run is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three past projects your project manager remembers well, with hard cases written in advance: a delay no change explains, a change nobody approved, a measure with no result yet, a vague lesson, and a remark about a person that must be left out. The project manager checks every split and every mark against the plan before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) sets up those cases.
+Testing in your environment means running it on two or three past projects your project manager remembers well, with hard cases written in advance: a delay no change explains, a change nobody approved, a measure with no result yet, a vague lesson, and a remark about a person that must be left out. The project manager checks every split and every mark against the plan before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets up those cases.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -63,11 +63,11 @@ Testing in your environment means running it on two or three past projects your 
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -77,12 +77,12 @@ Testing in your environment means running it on two or three past projects your 
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Project status report](https://fullypowered.ai/capabilities/project-status-report/)
-- [Premortem before a decision](https://fullypowered.ai/capabilities/premortem-before-a-decision/)
-- [Decision log](https://fullypowered.ai/capabilities/decision-log/)
+- [Project status report](../project-status-report/)
+- [Premortem before a decision](https://fullypowered.ai/workflow templates/premortem-before-a-decision/)
+- [Decision log](https://fullypowered.ai/workflow templates/decision-log/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

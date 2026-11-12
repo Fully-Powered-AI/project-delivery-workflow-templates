@@ -1,6 +1,6 @@
 # Project intake and capacity review
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -15,7 +15,7 @@ Do not use it:
 - to judge whether one piece of work suits an AI workflow; use Workflow fit check;
 - to plan roles, salaries and the cost of people over a year; use Headcount plan, which is also where a gap that only more people can fill belongs;
 - to report on a project that is already running; use Project status report;
-- to build a project plan, a schedule of tasks or a business case from nothing. The proposal is an input; this capability reviews it;
+- to build a project plan, a schedule of tasks or a business case from nothing. The proposal is an input; this workflow template reviews it;
 - to assess how well any named person is doing. The review speaks about roles, projects and days, never about people.
 
 ## Roles

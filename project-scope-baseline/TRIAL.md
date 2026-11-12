@@ -4,7 +4,7 @@
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs were the invented example in `public/example.md` (the settings, the approved brief, the discovery notes and constraints, and the sponsor's expectations). No client data was used. The run followed the instruction block and the output format in the capability template exactly, in one pass, with no help from a person. The template was written by someone else.
+The inputs were the invented example in `public/example.md` (the settings, the approved brief, the discovery notes and constraints, and the sponsor's expectations). No client data was used. The run followed the instruction block and the output format in the workflow template exactly, in one pass, with no help from a person. The template was written by someone else.
 
 One caveat on the method. The run was meant to be blind to the example's output until it had finished. A first read of the example file went too far and showed the output's first deliverables (D1 and D2) before the run began. The rest of the output was not read until the run was done. That may have nudged the wording of D1 and D2, so treat the match on those two as less independent than the rest.
 

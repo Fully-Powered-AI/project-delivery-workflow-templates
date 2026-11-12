@@ -1,6 +1,6 @@
 # Scope change impact review
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -12,7 +12,7 @@ Use it when a deliverable or request turns up in the working plan that was not i
 
 Do not use it:
 
-- to set the baseline in the first place. The project manager and the sponsor agree the deliverables, exclusions and end date first; this capability compares against them;
+- to set the baseline in the first place. The project manager and the sponsor agree the deliverables, exclusions and end date first; this workflow template compares against them;
 - for the regular report on progress, blockers and colours; use Project status report;
 - to estimate a change. The delivery lead estimates; the review reports the estimate and never makes one up;
 - to prepare a change order or any wording for a client contract or a supplier contract. This review is internal; changes to a contract go to whoever manages it;

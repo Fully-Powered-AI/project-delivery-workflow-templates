@@ -1,10 +1,10 @@
 {
   "id": "schedule-recovery-options",
   "name": "Schedule recovery options",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "When a committed milestone slips, the project manager brings the sponsor two to four ways back: what each changes, the dates it gives every later milestone and dependency, and the assumptions it rests on. The sponsor chooses; delivery leads confirm the dates.",
-  "directory": "https://fullypowered.ai/capabilities/schedule-recovery-options/",
+  "directory": "https://fullypowered.ai/workflow templates/schedule-recovery-options/",
   "primary_function": "functions/project-and-delivery",
   "functions": [
     "functions/project-and-delivery"

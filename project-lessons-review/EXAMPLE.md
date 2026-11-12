@@ -1,6 +1,6 @@
 # Project lessons review: an invented example
 
-*Illustrative example with invented data.* The firm, its people, its clients, its supplier, the project and every date and figure below are invented. The firm is an invented 45-person accounting firm that has just finished the first phase of moving client documents from email to a secure client portal. The practice manager ran the project for the managing partner; the delivery leads were the IT lead, the client services manager and the tax manager. People are named by role only, and the portal supplier is called Vendor A. First come the six inputs the practice manager supplied, in full, then the draft the capability returned.
+*Illustrative example with invented data.* The firm, its people, its clients, its supplier, the project and every date and figure below are invented. The firm is an invented 45-person accounting firm that has just finished the first phase of moving client documents from email to a secure client portal. The practice manager ran the project for the managing partner; the delivery leads were the IT lead, the client services manager and the tax manager. People are named by role only, and the portal supplier is called Vendor A. First come the six inputs the practice manager supplied, in full, then the draft the workflow template returned.
 
 ## The inputs
 

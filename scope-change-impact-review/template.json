@@ -1,10 +1,10 @@
 {
   "id": "scope-change-impact-review",
   "name": "Scope change impact review",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "When new work turns up in a project plan, the project manager gets one review: every deliverable compared with the agreed baseline, each addition marked approved or not, its estimated effect on effort, cost and the end date, and the decision the sponsor has to make. The sponsor accepts or declines each one.",
-  "directory": "https://fullypowered.ai/capabilities/scope-change-impact-review/",
+  "directory": "https://fullypowered.ai/workflow templates/scope-change-impact-review/",
   "primary_function": "functions/project-and-delivery",
   "functions": [
     "functions/project-and-delivery"
@@ -41,7 +41,7 @@
   "sources": [
     {
       "kind": "own",
-      "title": "Fully Powered AI's own published map of project and delivery work, the review of extra work entering delivery in particular, written up as this capability template."
+      "title": "Fully Powered AI's own published map of project and delivery work, the review of extra work entering delivery in particular, written up as this workflow template."
     }
   ]
 }

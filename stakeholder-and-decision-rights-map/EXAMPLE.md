@@ -1,6 +1,6 @@
 # Stakeholder and decision rights map: an invented example
 
-*Illustrative example with invented data.* The company, its people, its supplier, its customers, the project and every date and figure below are invented. The company is an invented 140-person wholesale distributor moving its warehouse from paper pick lists to handheld scanners, which may also bring the cut-off for same-day dispatch of trade orders forward. Everyone is named by role, the supplier by letter. First come the five inputs the project manager supplied, in full, then the draft the capability returned.
+*Illustrative example with invented data.* The company, its people, its supplier, its customers, the project and every date and figure below are invented. The company is an invented 140-person wholesale distributor moving its warehouse from paper pick lists to handheld scanners, which may also bring the cut-off for same-day dispatch of trade orders forward. Everyone is named by role, the supplier by letter. First come the five inputs the project manager supplied, in full, then the draft the workflow template returned.
 
 ## The inputs
 

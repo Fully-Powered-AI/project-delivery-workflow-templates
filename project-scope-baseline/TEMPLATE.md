@@ -1,6 +1,6 @@
 # Project scope baseline
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -19,7 +19,7 @@ Do not use it:
 - to design acceptance tests for an AI pilot; use Pilot acceptance-test preparation;
 - to report progress; use Project status report, which reports against the plan once there is one;
 - to estimate cost or dates. The constraints are listed as given; nothing is estimated;
-- to decide what the project should include. The sponsor decides; this capability shows what is unsettled.
+- to decide what the project should include. The sponsor decides; this workflow template shows what is unsettled.
 
 ## Roles
 

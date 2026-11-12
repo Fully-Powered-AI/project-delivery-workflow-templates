@@ -2,7 +2,7 @@
 
 Before kickoff, the project manager holds one map of everyone the project touches: each group placed by influence and interest, every key decision with exactly one accountable owner, the decision makers still missing, and who hears what, when and from whom. The sponsor confirms every decision right.
 
-*Capability template · Project and delivery · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/stakeholder-and-decision-rights-map/)*
+*Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/stakeholder-and-decision-rights-map/)*
 
 ## The outcome
 
@@ -48,9 +48,9 @@ Use your own column names, mapped once to the defaults. Decide the channel for e
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template, drawing on a published open-source method credited in its sources. It was editorially reviewed on 10 November 2026. It was tried once on its invented example on 10 November 2026, and the record of that run is published with it. Small edits made after that run, following an independent review, were not run again; the record is of the earlier wording. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template, drawing on a published open-source method credited in its sources. It was editorially reviewed on 10 November 2026. It was tried once on its invented example on 10 November 2026, and the record of that run is published with it. Small edits made after that run, following an independent review, were not run again; the record is of the earlier wording. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past project your project manager remembers well, with hard cases written in advance: a decision with two accountable owners, an owner who leaves before the decision is due, a group nobody has been named to tell, a note that passes judgment on a colleague. The project manager checks every flag and date before the map goes to the sponsor. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) sets up those cases, [Decision log](https://fullypowered.ai/capabilities/decision-log/) keeps the decisions once they are made, and [Internal change announcement](https://fullypowered.ai/capabilities/internal-change-announcement/) writes the messages the plan calls for.
+Testing in your environment means running it on a past project your project manager remembers well, with hard cases written in advance: a decision with two accountable owners, an owner who leaves before the decision is due, a group nobody has been named to tell, a note that passes judgment on a colleague. The project manager checks every flag and date before the map goes to the sponsor. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets up those cases, [Decision log](https://fullypowered.ai/workflows/decision-log/) keeps the decisions once they are made, and [Internal change announcement](https://fullypowered.ai/workflows/internal-change-announcement/) writes the messages the plan calls for.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -61,11 +61,11 @@ Testing in your environment means running it on a past project your project mana
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -75,12 +75,12 @@ Testing in your environment means running it on a past project your project mana
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Project status report](https://fullypowered.ai/capabilities/project-status-report/)
-- [Decision log](https://fullypowered.ai/capabilities/decision-log/)
-- [Internal change announcement](https://fullypowered.ai/capabilities/internal-change-announcement/)
+- [Project status report](../project-status-report/)
+- [Decision log](https://fullypowered.ai/workflow templates/decision-log/)
+- [Internal change announcement](https://fullypowered.ai/workflow templates/internal-change-announcement/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

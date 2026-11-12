@@ -2,7 +2,7 @@
 
 When a finished deliverable is ready for the team that will run it, the project manager brings one checklist against that team's own requirements: acceptance evidence, instructions, access, training, support owners and open items. The receiving owner accepts or names the conditions still to meet.
 
-*Capability template · Project and delivery · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/project-handover-readiness-check/)*
+*Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/project-handover-readiness-check/)*
 
 ## The outcome
 
@@ -47,13 +47,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## What has to change for your company
 
-The receiving owner writes the requirements list once for each kind of deliverable your teams take on, and adjusts it per project; the capability supplies no standard list. Agree the evidence each requirement may ask for and add any of your own. Set your severity scale and whether a medium item also needs a workaround. Decide whether the project team supports the result for a period after handover, and for how long. Decide who confirms that the project team's own access is removed, which this checklist does not cover as written. Name who signs the decision box and where the signed checklist is kept. It runs in ChatGPT, Claude, Copilot or Gemini from the lists you supply, with no connection to any system.
+The receiving owner writes the requirements list once for each kind of deliverable your teams take on, and adjusts it per project; the workflow template supplies no standard list. Agree the evidence each requirement may ask for and add any of your own. Set your severity scale and whether a medium item also needs a workaround. Decide whether the project team supports the result for a period after handover, and for how long. Decide who confirms that the project team's own access is removed, which this checklist does not cover as written. Name who signs the decision box and where the signed checklist is kept. It runs in ChatGPT, Claude, Copilot or Gemini from the lists you supply, with no connection to any system.
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template from its own published map of the work. It was editorially reviewed on 10 November 2026. It was tried once on its invented example on 10 November 2026, and the record is published with it. Small edits made to the template after that run were not run again; the record lists them. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template from its own published map of the work. It was editorially reviewed on 10 November 2026. It was tried once on its invented example on 10 November 2026, and the record is published with it. Small edits made to the template after that run were not run again; the record lists them. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three past handovers your receiving owners remember, plus hard cases written in advance, each with its expected result: a guide offered where a demonstration is required, a support owner who never agreed, a gap in support cover, a list with a renamed column, an access list with a password typed into it. The project manager and the receiving owner check every status and every date before anyone relies on the checklist. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) sets those cases up, and [SOP from how the work is done](https://fullypowered.ai/capabilities/sop-from-how-the-work-is-done/) writes the operating guide the receiving team will need.
+Testing in your environment means running it on two or three past handovers your receiving owners remember, plus hard cases written in advance, each with its expected result: a guide offered where a demonstration is required, a support owner who never agreed, a gap in support cover, a list with a renamed column, an access list with a password typed into it. The project manager and the receiving owner check every status and every date before anyone relies on the checklist. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [SOP from how the work is done](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/) writes the operating guide the receiving team will need.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -64,11 +64,11 @@ Testing in your environment means running it on two or three past handovers your
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -78,12 +78,12 @@ Testing in your environment means running it on two or three past handovers your
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/)
-- [Write an SOP from how the work is done](https://fullypowered.ai/capabilities/sop-from-how-the-work-is-done/)
-- [Project status report](https://fullypowered.ai/capabilities/project-status-report/)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflow templates/pilot-acceptance-test-preparation/)
+- [Write an SOP from how the work is done](https://fullypowered.ai/workflow templates/sop-from-how-the-work-is-done/)
+- [Project status report](../project-status-report/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

@@ -1,15 +1,15 @@
 {
-  "repository": "Fully-Powered-AI/project-delivery-capability-templates",
+  "repository": "Fully-Powered-AI/project-delivery-workflow-templates",
   "title": "Project and Delivery",
   "term": "functions/project-and-delivery",
-  "capabilities": [
+  "templates": [
     {
       "id": "project-handover-readiness-check",
       "name": "Project handover readiness check",
       "version": "0.1.0",
       "summary": "When a finished deliverable is ready for the team that will run it, the project manager brings one checklist against that team's own requirements: acceptance evidence, instructions, access, training, support owners and open items. The receiving owner accepts or names the conditions still to meet.",
       "path": "project-handover-readiness-check/",
-      "directory": "https://fullypowered.ai/capabilities/project-handover-readiness-check/"
+      "directory": "https://fullypowered.ai/workflow templates/project-handover-readiness-check/"
     },
     {
       "id": "project-intake-and-capacity-review",
@@ -17,7 +17,7 @@
       "version": "0.1.0",
       "summary": "When a new initiative is proposed, the portfolio owner sees it scored on the business's own criteria beside the projects already committed, the delivery days it would use month by month, and what it would crowd out or push later. The owner accepts, defers or rejects it.",
       "path": "project-intake-and-capacity-review/",
-      "directory": "https://fullypowered.ai/capabilities/project-intake-and-capacity-review/"
+      "directory": "https://fullypowered.ai/workflow templates/project-intake-and-capacity-review/"
     },
     {
       "id": "project-lessons-review",
@@ -25,7 +25,7 @@
       "version": "0.1.0",
       "summary": "When a phase or a project ends, the project manager gets one blameless review: whether it achieved what it was for, how scope, schedule and budget moved and why, whether the success measures were the right ones, and practice changes for the team to choose, each with an owner and a follow-up date.",
       "path": "project-lessons-review/",
-      "directory": "https://fullypowered.ai/capabilities/project-lessons-review/"
+      "directory": "https://fullypowered.ai/workflow templates/project-lessons-review/"
     },
     {
       "id": "project-scope-baseline",
@@ -33,7 +33,15 @@
       "version": "0.1.0",
       "summary": "A project manager turns an approved brief into a draft scope baseline: the deliverables, what is excluded, the acceptance criteria for each deliverable, the constraints and the open questions for the sponsor. Nothing implied counts as scope until the sponsor says so.",
       "path": "project-scope-baseline/",
-      "directory": "https://fullypowered.ai/capabilities/project-scope-baseline/"
+      "directory": "https://fullypowered.ai/workflow templates/project-scope-baseline/"
+    },
+    {
+      "id": "project-status-report",
+      "name": "Project status report",
+      "version": "0.1.0",
+      "summary": "The lead of an internal project gets a status report the sponsor can read in two minutes: each workstream red, amber or green with the reason, what moved, who must clear each blocker, the decisions needed and the dates at risk. No milestone is called done without evidence, and the lead confirms every status.",
+      "path": "project-status-report/",
+      "directory": "https://fullypowered.ai/workflow templates/project-status-report/"
     },
     {
       "id": "schedule-recovery-options",
@@ -41,7 +49,7 @@
       "version": "0.1.0",
       "summary": "When a committed milestone slips, the project manager brings the sponsor two to four ways back: what each changes, the dates it gives every later milestone and dependency, and the assumptions it rests on. The sponsor chooses; delivery leads confirm the dates.",
       "path": "schedule-recovery-options/",
-      "directory": "https://fullypowered.ai/capabilities/schedule-recovery-options/"
+      "directory": "https://fullypowered.ai/workflow templates/schedule-recovery-options/"
     },
     {
       "id": "scope-change-impact-review",
@@ -49,7 +57,7 @@
       "version": "0.1.0",
       "summary": "When new work turns up in a project plan, the project manager gets one review: every deliverable compared with the agreed baseline, each addition marked approved or not, its estimated effect on effort, cost and the end date, and the decision the sponsor has to make. The sponsor accepts or declines each one.",
       "path": "scope-change-impact-review/",
-      "directory": "https://fullypowered.ai/capabilities/scope-change-impact-review/"
+      "directory": "https://fullypowered.ai/workflow templates/scope-change-impact-review/"
     },
     {
       "id": "stakeholder-and-decision-rights-map",
@@ -57,7 +65,7 @@
       "version": "0.1.0",
       "summary": "Before kickoff, the project manager holds one map of everyone the project touches: each group placed by influence and interest, every key decision with exactly one accountable owner, the decision makers still missing, and who hears what, when and from whom. The sponsor confirms every decision right.",
       "path": "stakeholder-and-decision-rights-map/",
-      "directory": "https://fullypowered.ai/capabilities/stakeholder-and-decision-rights-map/"
+      "directory": "https://fullypowered.ai/workflow templates/stakeholder-and-decision-rights-map/"
     }
   ]
 }

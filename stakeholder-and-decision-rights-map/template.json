@@ -1,10 +1,10 @@
 {
   "id": "stakeholder-and-decision-rights-map",
   "name": "Stakeholder and decision rights map",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Before kickoff, the project manager holds one map of everyone the project touches: each group placed by influence and interest, every key decision with exactly one accountable owner, the decision makers still missing, and who hears what, when and from whom. The sponsor confirms every decision right.",
-  "directory": "https://fullypowered.ai/capabilities/stakeholder-and-decision-rights-map/",
+  "directory": "https://fullypowered.ai/workflow templates/stakeholder-and-decision-rights-map/",
   "primary_function": "functions/project-and-delivery",
   "functions": [
     "functions/project-and-delivery",

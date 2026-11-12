@@ -1,6 +1,6 @@
 # Project intake and capacity review: an invented example
 
-*Illustrative example with invented data.* The business, its people, its projects, the proposal and every figure below are invented. The business is an invented 40-person web and brand agency. The operations lead runs the review for the managing director, who owns the portfolio and decides. People are named by role only. First come the five inputs the operations lead supplied, in full, then the review the capability returned.
+*Illustrative example with invented data.* The business, its people, its projects, the proposal and every figure below are invented. The business is an invented 40-person web and brand agency. The operations lead runs the review for the managing director, who owns the portfolio and decides. People are named by role only. First come the five inputs the operations lead supplied, in full, then the review the workflow template returned.
 
 ## The inputs
 
@@ -87,7 +87,7 @@ Developer,25,25,20
 Project manager,5,5,4
 ```
 
-## The review the capability returned
+## The review the workflow template returned
 
 **Project intake and capacity review: Customer self-service booking tool**
 

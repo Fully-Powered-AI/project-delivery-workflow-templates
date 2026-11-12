@@ -5,7 +5,7 @@
 - **Date:** 2026-11-10
 - **Template version:** 0.1.0, as revised on 10 November 2026 after an independent review (a read of the template and example by a reviewer who had not written them)
 
-This is a record of runs of the capability template on its own invented example: Company A, an invented 45-person services firm, with an invented supplier, Vendor B. No client data was used. It is not a test in any company's environment.
+This is a record of runs of the workflow template on its own invented example: Company A, an invented 45-person services firm, with an invented supplier, Vendor B. No client data was used. It is not a test in any company's environment.
 
 This is the second run. The first run (earlier on 10 November 2026) used the template and example as first written; its output and observations are kept below as recorded. The run recorded immediately below was made on the revised template and the revised inputs in [public/example.md](example.md).
 

@@ -1,6 +1,6 @@
 # Project handover readiness check
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -14,7 +14,7 @@ Do not use it:
 
 - when a person leaves or changes role and hands over their own work. That is employee offboarding, with its own checklist;
 - when a sale closes and the account passes from sales to the client team. That is an account handoff;
-- to write the operating procedure itself. Writing down how the work is done is a separate capability; this one only checks that the procedure exists and has been used;
+- to write the operating procedure itself. Writing down how the work is done is a separate workflow template; this one only checks that the procedure exists and has been used;
 - to close the project. Closing it, and agreeing what obligations survive it, is the sponsor's separate step after the handover is accepted;
 - to decide what a supplier agreement, warranty or service commitment obliges anyone to do. The person who manages that agreement answers it;
 - when the receiving team has written no requirements. The receiving owner writes them first.

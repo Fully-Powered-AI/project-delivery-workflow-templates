@@ -1,6 +1,6 @@
 # Project handover readiness check: an invented example
 
-*Illustrative example with invented data.* The firm, the supplier, the people, the system and every date below are invented. The firm is an invented 90-person building-survey practice. An internal project has replaced its paper and spreadsheet diary with an inspection scheduling system bought from an invented software company, called Supplier A here. The project manager is about to hand the system to the scheduling team, whose manager will run it. People are named by role or by letter. First come the inputs the project manager supplied, in full, then the checklist the capability returned.
+*Illustrative example with invented data.* The firm, the supplier, the people, the system and every date below are invented. The firm is an invented 90-person building-survey practice. An internal project has replaced its paper and spreadsheet diary with an inspection scheduling system bought from an invented software company, called Supplier A here. The project manager is about to hand the system to the scheduling team, whose manager will run it. People are named by role or by letter. First come the inputs the project manager supplied, in full, then the checklist the workflow template returned.
 
 ## The inputs
 
