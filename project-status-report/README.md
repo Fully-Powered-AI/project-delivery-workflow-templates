@@ -2,7 +2,7 @@
 
 The lead of an internal project gets a status report the sponsor can read in two minutes: each workstream red, amber or green with the reason, what moved, who must clear each blocker, the decisions needed and the dates at risk. No milestone is called done without evidence, and the lead confirms every status.
 
-*Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/project-status-report/)*
+*Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/project-status-report/)*
 
 ## The outcome
 
@@ -77,9 +77,9 @@ Testing in your environment means running it on two or three past periods of a p
 
 ## Related workflow templates
 
-- [Decision log](https://fullypowered.ai/workflow templates/decision-log/)
-- [Meeting agenda, notes and follow-ups](https://fullypowered.ai/workflow templates/meeting-agenda-notes-and-follow-ups/)
-- [Client-status update preparation](https://fullypowered.ai/workflow templates/client-status-update-preparation/)
+- [Decision log](https://fullypowered.ai/workflows/decision-log/)
+- [Meeting agenda, notes and follow-ups](https://fullypowered.ai/workflows/meeting-agenda-notes-and-follow-ups/)
+- [Client-status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/)
 
 ## Make it yours
 

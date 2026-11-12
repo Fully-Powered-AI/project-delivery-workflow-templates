@@ -2,7 +2,7 @@
 
 When a new initiative is proposed, the portfolio owner sees it scored on the business's own criteria beside the projects already committed, the delivery days it would use month by month, and what it would crowd out or push later. The owner accepts, defers or rejects it.
 
-*Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/project-intake-and-capacity-review/)*
+*Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/project-intake-and-capacity-review/)*
 
 ## The outcome
 
@@ -78,8 +78,8 @@ Testing in your environment means running it on two or three past proposals whos
 ## Related workflow templates
 
 - [Project status report](../project-status-report/)
-- [Headcount plan](https://fullypowered.ai/workflow templates/headcount-plan/)
-- [Workflow fit check: is this piece of work ready for AI?](https://fullypowered.ai/workflow templates/workflow-fit-check/)
+- [Headcount plan](https://fullypowered.ai/workflows/headcount-plan/)
+- [Workflow fit check: is this piece of work ready for AI?](https://fullypowered.ai/workflows/workflow-fit-check/)
 
 ## Make it yours
 

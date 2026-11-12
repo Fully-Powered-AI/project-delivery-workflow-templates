@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "When a finished deliverable is ready for the team that will run it, the project manager brings one checklist against that team's own requirements: acceptance evidence, instructions, access, training, support owners and open items. The receiving owner accepts or names the conditions still to meet.",
-  "directory": "https://fullypowered.ai/workflow templates/project-handover-readiness-check/",
+  "directory": "https://fullypowered.ai/workflows/project-handover-readiness-check/",
   "primary_function": "functions/project-and-delivery",
   "functions": [
     "functions/project-and-delivery",

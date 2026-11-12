@@ -2,7 +2,7 @@
 
 Before kickoff, the project manager holds one map of everyone the project touches: each group placed by influence and interest, every key decision with exactly one accountable owner, the decision makers still missing, and who hears what, when and from whom. The sponsor confirms every decision right.
 
-*Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/stakeholder-and-decision-rights-map/)*
+*Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/stakeholder-and-decision-rights-map/)*
 
 ## The outcome
 
@@ -78,8 +78,8 @@ Testing in your environment means running it on a past project your project mana
 ## Related workflow templates
 
 - [Project status report](../project-status-report/)
-- [Decision log](https://fullypowered.ai/workflow templates/decision-log/)
-- [Internal change announcement](https://fullypowered.ai/workflow templates/internal-change-announcement/)
+- [Decision log](https://fullypowered.ai/workflows/decision-log/)
+- [Internal change announcement](https://fullypowered.ai/workflows/internal-change-announcement/)
 
 ## Make it yours
 

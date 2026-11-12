@@ -2,7 +2,7 @@
 
 When new work turns up in a project plan, the project manager gets one review: every deliverable compared with the agreed baseline, each addition marked approved or not, its estimated effect on effort, cost and the end date, and the decision the sponsor has to make. The sponsor accepts or declines each one.
 
-*Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/scope-change-impact-review/)*
+*Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/scope-change-impact-review/)*
 
 ## The outcome
 
@@ -81,8 +81,8 @@ Testing in your environment means running it on two or three past changes your p
 ## Related workflow templates
 
 - [Project status report](../project-status-report/)
-- [Decision log](https://fullypowered.ai/workflow templates/decision-log/)
-- [Client-status update preparation](https://fullypowered.ai/workflow templates/client-status-update-preparation/)
+- [Decision log](https://fullypowered.ai/workflows/decision-log/)
+- [Client-status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/)
 
 ## Make it yours
 

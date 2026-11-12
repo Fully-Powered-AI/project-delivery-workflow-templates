@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "The lead of an internal project gets a status report the sponsor can read in two minutes: each workstream red, amber or green with the reason, what moved, who must clear each blocker, the decisions needed and the dates at risk. No milestone is called done without evidence, and the lead confirms every status.",
-  "directory": "https://fullypowered.ai/workflow templates/project-status-report/",
+  "directory": "https://fullypowered.ai/workflows/project-status-report/",
   "primary_function": "functions/project-and-delivery",
   "functions": [
     "functions/project-and-delivery",

@@ -2,7 +2,7 @@
 
 When a finished deliverable is ready for the team that will run it, the project manager brings one checklist against that team's own requirements: acceptance evidence, instructions, access, training, support owners and open items. The receiving owner accepts or names the conditions still to meet.
 
-*Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/project-handover-readiness-check/)*
+*Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/project-handover-readiness-check/)*
 
 ## The outcome
 
@@ -80,8 +80,8 @@ Testing in your environment means running it on two or three past handovers your
 
 ## Related workflow templates
 
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflow templates/pilot-acceptance-test-preparation/)
-- [Write an SOP from how the work is done](https://fullypowered.ai/workflow templates/sop-from-how-the-work-is-done/)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
+- [Write an SOP from how the work is done](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/)
 - [Project status report](../project-status-report/)
 
 ## Make it yours

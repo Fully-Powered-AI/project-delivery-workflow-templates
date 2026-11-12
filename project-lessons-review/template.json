@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "When a phase or a project ends, the project manager gets one blameless review: whether it achieved what it was for, how scope, schedule and budget moved and why, whether the success measures were the right ones, and practice changes for the team to choose, each with an owner and a follow-up date.",
-  "directory": "https://fullypowered.ai/workflow templates/project-lessons-review/",
+  "directory": "https://fullypowered.ai/workflows/project-lessons-review/",
   "primary_function": "functions/project-and-delivery",
   "functions": [
     "functions/project-and-delivery",

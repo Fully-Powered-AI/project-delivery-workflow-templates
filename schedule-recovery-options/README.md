@@ -2,7 +2,7 @@
 
 When a committed milestone slips, the project manager brings the sponsor two to four ways back: what each changes, the dates it gives every later milestone and dependency, and the assumptions it rests on. The sponsor chooses; delivery leads confirm the dates.
 
-*Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/schedule-recovery-options/)*
+*Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/schedule-recovery-options/)*
 
 ## The outcome
 
@@ -79,8 +79,8 @@ Testing in your environment means running it on a past slip your project manager
 ## Related workflow templates
 
 - [Project status report](../project-status-report/)
-- [Premortem before a decision](https://fullypowered.ai/workflow templates/premortem-before-a-decision/)
-- [Decision log](https://fullypowered.ai/workflow templates/decision-log/)
+- [Premortem before a decision](https://fullypowered.ai/workflows/premortem-before-a-decision/)
+- [Decision log](https://fullypowered.ai/workflows/decision-log/)
 
 ## Make it yours
 

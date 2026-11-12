@@ -2,7 +2,7 @@
 
 When a phase or a project ends, the project manager gets one blameless review: whether it achieved what it was for, how scope, schedule and budget moved and why, whether the success measures were the right ones, and practice changes for the team to choose, each with an owner and a follow-up date.
 
-*Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/project-lessons-review/)*
+*Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/project-lessons-review/)*
 
 ## The outcome
 
@@ -80,8 +80,8 @@ Testing in your environment means running it on two or three past projects your 
 ## Related workflow templates
 
 - [Project status report](../project-status-report/)
-- [Premortem before a decision](https://fullypowered.ai/workflow templates/premortem-before-a-decision/)
-- [Decision log](https://fullypowered.ai/workflow templates/decision-log/)
+- [Premortem before a decision](https://fullypowered.ai/workflows/premortem-before-a-decision/)
+- [Decision log](https://fullypowered.ai/workflows/decision-log/)
 
 ## Make it yours
 

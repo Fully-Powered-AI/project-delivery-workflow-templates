@@ -2,7 +2,7 @@
 
 A project manager turns an approved brief into a draft scope baseline: the deliverables, what is excluded, the acceptance criteria for each deliverable, the constraints and the open questions for the sponsor. Nothing implied counts as scope until the sponsor says so.
 
-*Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/project-scope-baseline/)*
+*Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/project-scope-baseline/)*
 
 ## The outcome
 
@@ -83,8 +83,8 @@ Testing in your environment means running it on the brief of a project you finis
 ## Related workflow templates
 
 - [Project status report](../project-status-report/)
-- [Decision log](https://fullypowered.ai/workflow templates/decision-log/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflow templates/pilot-acceptance-test-preparation/)
+- [Decision log](https://fullypowered.ai/workflows/decision-log/)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
 
 ## Make it yours
 
