@@ -1,0 +1,49 @@
+{
+  "id": "portfolio-status-roll-up",
+  "name": "Project portfolio status roll-up",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "The head of delivery takes one page to leadership each fortnight or month, built from the reports project leads already write: every project red, amber or green as its own lead stated it, what moved, the decisions leadership is asked for, and where two reports contradict each other or a status has no reason.",
+  "directory": "https://fullypowered.ai/workflows/portfolio-status-roll-up/",
+  "primary_function": "functions/project-and-delivery",
+  "functions": [
+    "functions/project-and-delivery",
+    "functions/operations-and-process-improvement",
+    "functions/leadership"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/engineering-firms",
+    "industries/manufacturing",
+    "industries/software-technology"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "project-status-report",
+    "project-intake-and-capacity-review",
+    "decision-log"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-12",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-12",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own method for rolling the project leads' status reports into one page for leadership: each status copied as its lead stated it, unanswered decisions carried forward by number, contradictions between reports quoted side by side without taking a side, and the head of delivery's confirmation before the page goes."
+    }
+  ]
+}

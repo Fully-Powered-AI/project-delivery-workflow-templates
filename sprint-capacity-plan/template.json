@@ -1,0 +1,48 @@
+{
+  "id": "sprint-capacity-plan",
+  "name": "Sprint plan against capacity",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "Before each planning meeting, the delivery lead or scrum master brings a draft plan for the next sprint: the days each person really has, a forecast from the team's own recent delivery, the carryover, the ranked backlog cut at that figure, and what each item waits on. The team decides the commitment.",
+  "directory": "https://fullypowered.ai/workflows/sprint-capacity-plan/",
+  "primary_function": "functions/project-and-delivery",
+  "functions": [
+    "functions/project-and-delivery",
+    "functions/software-engineering"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/marketing-and-advertising",
+    "industries/ecommerce-and-retail",
+    "industries/professional-services"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/startups-and-new-ventures"
+  ],
+  "related": [
+    "project-intake-and-capacity-review",
+    "roadmap-tradeoff-review",
+    "acceptance-criteria-sheet"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-11",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-11",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of software engineering and project delivery work, and its own method for setting a ranked backlog against a team's availability and recent delivery."
+    }
+  ]
+}

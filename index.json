@@ -4,6 +4,14 @@
   "term": "functions/project-and-delivery",
   "templates": [
     {
+      "id": "portfolio-status-roll-up",
+      "name": "Project portfolio status roll-up",
+      "version": "0.1.0",
+      "summary": "The head of delivery takes one page to leadership each fortnight or month, built from the reports project leads already write: every project red, amber or green as its own lead stated it, what moved, the decisions leadership is asked for, and where two reports contradict each other or a status has no reason.",
+      "path": "portfolio-status-roll-up/",
+      "directory": "https://fullypowered.ai/workflows/portfolio-status-roll-up/"
+    },
+    {
       "id": "project-handover-readiness-check",
       "name": "Project handover readiness check",
       "version": "0.1.0",
@@ -58,6 +66,14 @@
       "summary": "When new work turns up in a project plan, the project manager gets one review: every deliverable compared with the agreed baseline, each addition marked approved or not, its estimated effect on effort, cost and the end date, and the decision the sponsor has to make. The sponsor accepts or declines each one.",
       "path": "scope-change-impact-review/",
       "directory": "https://fullypowered.ai/workflows/scope-change-impact-review/"
+    },
+    {
+      "id": "sprint-capacity-plan",
+      "name": "Sprint plan against capacity",
+      "version": "0.1.0",
+      "summary": "Before each planning meeting, the delivery lead or scrum master brings a draft plan for the next sprint: the days each person really has, a forecast from the team's own recent delivery, the carryover, the ranked backlog cut at that figure, and what each item waits on. The team decides the commitment.",
+      "path": "sprint-capacity-plan/",
+      "directory": "https://fullypowered.ai/workflows/sprint-capacity-plan/"
     },
     {
       "id": "stakeholder-and-decision-rights-map",
