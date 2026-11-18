@@ -26,7 +26,7 @@
     "project-status-report"
   ],
   "evidence": {
-    "written_by": "Fully Powered AI",
+    "written_by": "FullyPowered AI",
     "source_and_rights_reviewed": true,
     "editorially_reviewed": "2026-11-10",
     "package_format_valid": true,
@@ -42,7 +42,7 @@
   "sources": [
     {
       "kind": "own",
-      "title": "Fully Powered AI's own method for checking a handover against the receiving team's written requirements: six fixed registers with set column headings and a stop on any heading that does not match, a fixed list of the evidence each requirement may ask for, a rule that only what has happened by the check date counts, a document never standing in for the receiving team doing the work, support owners counted only once they have accepted, gaps in support cover counted in days, conditions written as what must be true, and an acceptance decision left blank for the receiving owner."
+      "title": "FullyPowered AI's own method for checking a handover against the receiving team's written requirements: six fixed registers with set column headings and a stop on any heading that does not match, a fixed list of the evidence each requirement may ask for, a rule that only what has happened by the check date counts, a document never standing in for the receiving team doing the work, support owners counted only once they have accepted, gaps in support cover counted in days, conditions written as what must be true, and an acceptance decision left blank for the receiving owner."
     }
   ]
 }

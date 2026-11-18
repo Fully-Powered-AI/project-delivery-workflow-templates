@@ -51,11 +51,11 @@ Name who sponsors each project and which roles may approve a change; some compan
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template from its own published map of project and delivery work. It was editorially reviewed on 10 November 2026. It was tried once on its invented example on 10 November 2026 in Claude, and the run matched the example in every figure, date, order and count. It left a few points for judgement, which the published record lists: what the money figure in the position is, whether a moved date needs its own approval, and how to treat a change the requester made themselves. Small clarifications made afterward have not been run again. It has not yet been tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template from its own published map of project and delivery work. It was editorially reviewed on 10 November 2026. It was tried once on its invented example on 10 November 2026 in Claude, and the run matched the example in every figure, date, order and count. It left a few points for judgement, which the published record lists: what the money figure in the position is, whether a moved date needs its own approval, and how to treat a change the requester made themselves. Small clarifications made afterward have not been run again. It has not yet been tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on two or three past changes your project manager remembers, plus hard cases written in advance: an addition agreed only in a meeting, a deliverable that grew from 40 items to 55, a declined change still in the plan, a change with no estimate, and two changes that each move the end date. The project manager checks every figure against the estimates and the change log before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [Decision log](https://fullypowered.ai/workflows/decision-log/) keeps the sponsor's answers once they are given.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
@@ -86,4 +86,4 @@ Testing in your environment means running it on two or three past changes your p
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).

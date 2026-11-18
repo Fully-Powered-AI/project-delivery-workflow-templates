@@ -51,11 +51,11 @@ The receiving owner writes the requirements list once for each kind of deliverab
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template from its own published map of the work. It was editorially reviewed on 10 November 2026. It was tried once on its invented example on 10 November 2026, and the record is published with it. Small edits made to the template after that run were not run again; the record lists them. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template from its own published map of the work. It was editorially reviewed on 10 November 2026. It was tried once on its invented example on 10 November 2026, and the record is published with it. Small edits made to the template after that run were not run again; the record lists them. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on two or three past handovers your receiving owners remember, plus hard cases written in advance, each with its expected result: a guide offered where a demonstration is required, a support owner who never agreed, a gap in support cover, a list with a renamed column, an access list with a password typed into it. The project manager and the receiving owner check every status and every date before anyone relies on the checklist. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [SOP from how the work is done](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/) writes the operating guide the receiving team will need.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
@@ -86,4 +86,4 @@ Testing in your environment means running it on two or three past handovers your
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).

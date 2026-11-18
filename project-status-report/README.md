@@ -48,11 +48,11 @@ Decide who sponsors each project and on which day the report reaches them. Agree
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template, drawing on two published open-source methods credited in its sources. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in Claude, in three runs: the instructions were tightened after the first and again after an independent review of the second, and the record of the third is published with it. That run reached the expected colours, counts, order and open questions for the project lead, and left a few points for judgement: whether a forecast that holds only on a condition is enough, and a one-page limit the example only just meets. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template, drawing on two published open-source methods credited in its sources. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in Claude, in three runs: the instructions were tightened after the first and again after an independent review of the second, and the record of the third is published with it. That run reached the expected colours, counts, order and open questions for the project lead, and left a few points for judgement: whether a forecast that holds only on a condition is enough, and a one-page limit the example only just meets. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on two or three past periods of a project your lead remembers, with hard cases written in advance: a milestone claimed done without proof, a blocker with no owner, a decision past its date, a workstream lead who rates their own work greener than the rules allow. The project lead checks every colour and date against the plan before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets up those cases, and [Decision log](https://fullypowered.ai/workflows/decision-log/) keeps the sponsor's answers once they are given.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
@@ -83,4 +83,4 @@ Testing in your environment means running it on two or three past periods of a p
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).

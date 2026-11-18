@@ -26,7 +26,7 @@
     "decision-log"
   ],
   "evidence": {
-    "written_by": "Fully Powered AI",
+    "written_by": "FullyPowered AI",
     "source_and_rights_reviewed": true,
     "editorially_reviewed": "2026-11-10",
     "package_format_valid": true,
@@ -42,7 +42,7 @@
   "sources": [
     {
       "kind": "own",
-      "title": "Fully Powered AI's own rules for the review: the budget and the tracing of every scope, schedule and cost movement to a recorded change, split into approved, recorded without approval and untraced; fixed exports with default headings and a stop on any that does not match; the marks and verdict rules; the follow-up of changes chosen at the last review; the blameless rules; and the rule that the project manager and delivery leads choose every change, with no owner or date invented."
+      "title": "FullyPowered AI's own rules for the review: the budget and the tracing of every scope, schedule and cost movement to a recorded change, split into approved, recorded without approval and untraced; fixed exports with default headings and a stop on any that does not match; the marks and verdict rules; the follow-up of changes chosen at the last review; the blameless rules; and the rule that the project manager and delivery leads choose every change, with no owner or date invented."
     },
     {
       "kind": "third-party",
@@ -50,7 +50,7 @@
       "commit": "4497a99e149ffe2447eeaeed1d7706cd91c2edfb",
       "path": "product-strategy/skills/retro/",
       "licence": "Apache-2.0",
-      "contribution": "Looking back through four lenses (purpose achieved, delivery against plan, soundness of the measures, what to do another way); weighing each measure on available data, response to the work, fit with the purpose and a miss level fixed in advance; deferring the results judgement while still reviewing delivery; a mark for each measure and one overall verdict that allows for results not yet in (the rules for assigning them are Fully Powered AI's own); attention to what worked as well as to problems; lessons turned into concrete, checkable steps; an owner and a date for each follow-on action.",
+      "contribution": "Looking back through four lenses (purpose achieved, delivery against plan, soundness of the measures, what to do another way); weighing each measure on available data, response to the work, fit with the purpose and a miss level fixed in advance; deferring the results judgement while still reviewing delivery; a mark for each measure and one overall verdict that allows for results not yet in (the rules for assigning them are FullyPowered AI's own); attention to what worked as well as to problems; lessons turned into concrete, checkable steps; an owner and a date for each follow-on action.",
       "text_reused": false,
       "notice": "notices/panaversity-agentfactory-business-plugins-LICENSE.txt"
     }

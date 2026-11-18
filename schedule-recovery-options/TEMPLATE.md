@@ -222,5 +222,5 @@ decision line, with reasons from the inputs only.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by Fully Powered AI from its own published map of the work. Not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI from its own published map of the work. Not yet tested in a client environment.
 - 10 November 2026, revised after review: effort in working days converted to person-days, the order of options fixed, settings that override the successor rule, today's date, the export date and the list of who was told added to the inputs, "takes out of the chain" and the overlap and notice rules defined.

@@ -50,11 +50,11 @@ Write numbered aims into every project charter, and give every success measure i
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template, drawing on one published open-source method credited in its sources. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026, in one run; the record of that run is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template, drawing on one published open-source method credited in its sources. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026, in one run; the record of that run is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on two or three past projects your project manager remembers well, with hard cases written in advance: a delay no change explains, a change nobody approved, a measure with no result yet, a vague lesson, and a remark about a person that must be left out. The project manager checks every split and every mark against the plan before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets up those cases.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
@@ -85,4 +85,4 @@ Testing in your environment means running it on two or three past projects your 
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).

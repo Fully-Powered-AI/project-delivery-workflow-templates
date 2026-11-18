@@ -25,7 +25,7 @@
     "client-status-update-preparation"
   ],
   "evidence": {
-    "written_by": "Fully Powered AI",
+    "written_by": "FullyPowered AI",
     "source_and_rights_reviewed": true,
     "editorially_reviewed": "2026-11-10",
     "package_format_valid": true,
@@ -41,7 +41,7 @@
   "sources": [
     {
       "kind": "own",
-      "title": "Fully Powered AI's own rules for the report: a milestone counts as done only with the evidence the plan asks for, colours tied to the plan's dates and that evidence, a red mark when the end date is forecast to move, no colour greener than either the rules or the workstream lead's own proposal, dates at risk traced through what each milestone waits on, the comparison with the last report, the stop on unmatched export headings, and the project lead's confirmation of every mark before the report goes."
+      "title": "FullyPowered AI's own rules for the report: a milestone counts as done only with the evidence the plan asks for, colours tied to the plan's dates and that evidence, a red mark when the end date is forecast to move, no colour greener than either the rules or the workstream lead's own proposal, dates at risk traced through what each milestone waits on, the comparison with the last report, the stop on unmatched export headings, and the project lead's confirmation of every mark before the report goes."
     },
     {
       "kind": "third-party",

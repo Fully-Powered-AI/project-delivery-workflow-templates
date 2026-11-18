@@ -52,11 +52,11 @@ Decide who reads the page and how long before the meeting it goes out. Agree onc
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template as an original method, with no third-party source. It was editorially reviewed on 12 November 2026. It was tried once on its invented example, in Claude on 12 November 2026; the run was not fully blind, and its record is published with it. The findings of that run were then acted on in the template's steps and instructions, and those edits have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template as an original method, with no third-party source. It was editorially reviewed on 12 November 2026. It was tried once on its invented example, in Claude on 12 November 2026; the run was not fully blind, and its record is published with it. The findings of that run were then acted on in the template's steps and instructions, and those edits have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on two or three past periods your head of delivery remembers, with hard cases written in advance: a project that sends no report, a lead who writes "on track" instead of a colour, two reports that give different dates for the same handover, a decision from last time that nobody mentions. The head of delivery checks every status against the reports as written before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets up those cases, [Project status report](https://fullypowered.ai/workflows/project-status-report/) prepares each project's own report, and [Decision log](https://fullypowered.ai/workflows/decision-log/) keeps leadership's answers once they are given.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 12 November 2026.
 - Package format checked by script on every release.
@@ -87,4 +87,4 @@ Testing in your environment means running it on two or three past periods your h
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).

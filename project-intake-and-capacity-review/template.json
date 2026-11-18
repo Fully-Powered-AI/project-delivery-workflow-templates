@@ -26,7 +26,7 @@
     "workflow-fit-check"
   ],
   "evidence": {
-    "written_by": "Fully Powered AI",
+    "written_by": "FullyPowered AI",
     "source_and_rights_reviewed": true,
     "editorially_reviewed": "2026-11-10",
     "package_format_valid": true,
@@ -42,7 +42,7 @@
   "sources": [
     {
       "kind": "own",
-      "title": "Fully Powered AI's own rules for the review: the business's own criteria with a written meaning for each score, evidence quoted for every proposed score, monthly load by role with and without the proposal, headroom under a ceiling, committed work listed lowest score first with fixed work kept apart, a month-by-month test of later start months for the proposal, stops on unmatched headings and missing capacity, and a decision left entirely to the portfolio owner."
+      "title": "FullyPowered AI's own rules for the review: the business's own criteria with a written meaning for each score, evidence quoted for every proposed score, monthly load by role with and without the proposal, headroom under a ceiling, committed work listed lowest score first with fixed work kept apart, a month-by-month test of later start months for the proposal, stops on unmatched headings and missing capacity, and a decision left entirely to the portfolio owner."
     },
     {
       "kind": "third-party",
@@ -50,7 +50,7 @@
       "commit": "19392f7a08264ed00486a251f5b2098321771f94",
       "path": "project-management/skills/senior-pm/SKILL.md",
       "licence": "MIT",
-      "contribution": "The idea of planning a team's load to a sustainable range rather than to full, and of testing a change to resources on paper before committing to it (the guide's general what-if on resource reallocation, and the add-a-project scenario and the 85% over-allocation alert in its scripts/resource_capacity_planner.py, read as text only); the monthly start-shift test is Fully Powered AI's own.",
+      "contribution": "The idea of planning a team's load to a sustainable range rather than to full, and of testing a change to resources on paper before committing to it (the guide's general what-if on resource reallocation, and the add-a-project scenario and the 85% over-allocation alert in its scripts/resource_capacity_planner.py, read as text only); the monthly start-shift test is FullyPowered AI's own.",
       "text_reused": false,
       "notice": "notices/alirezarezvani-claude-skills-LICENSE.txt"
     },
