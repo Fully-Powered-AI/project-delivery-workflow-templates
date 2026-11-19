@@ -4,6 +4,8 @@ When new work turns up in a project plan, the project manager gets one review: e
 
 *Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/scope-change-impact-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/scope-change-impact-review/?from=gh-scope-change-impact-review)
+
 ## The outcome
 
 Extra work stops slipping into a project unseen. The project manager holds one page that shows what the plan contains today against what the sponsor agreed: which additions were approved, which arrived through a meeting, an email or a quiet edit to a deliverable, and which are already being worked on.

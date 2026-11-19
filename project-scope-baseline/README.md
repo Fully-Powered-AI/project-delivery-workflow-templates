@@ -4,6 +4,8 @@ A project manager turns an approved brief into a draft scope baseline: the deliv
 
 *Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/project-scope-baseline/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/project-scope-baseline/?from=gh-project-scope-baseline)
+
 ## The outcome
 
 The project manager and the sponsor sit down with one page that is clear enough to disagree with. Every deliverable the brief names is listed once, with the tests a person can run to say it is accepted and the role that accepts it. What is out of scope is written down beside what is in. The limits on the project, such as budget, dates, people and platform, are listed with where each came from.

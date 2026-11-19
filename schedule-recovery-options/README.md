@@ -4,6 +4,8 @@ When a committed milestone slips, the project manager brings the sponsor two to 
 
 *Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/schedule-recovery-options/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/schedule-recovery-options/?from=gh-schedule-recovery-options)
+
 ## The outcome
 
 The sponsor does not get a slipped date and a request to "find the time". They get the slip stated plainly, what happens to every later date if nothing is done, and a short set of real choices set side by side: cut or defer scope, change the order of work, add people, or move the date. Each choice shows the new dates of the milestones behind it, the outside commitments it touches and the day by which someone must ask a supplier or another team to change theirs.

@@ -4,6 +4,8 @@ The lead of an internal project gets a status report the sponsor can read in two
 
 *Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/project-status-report/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/project-status-report/?from=gh-project-status-report)
+
 ## The outcome
 
 The sponsor opens one page and knows in the first sentence whether the project needs them. The decisions that only they can make come next, each with its deadline and what slips if it waits. Then the dates in danger, then each workstream: its colour, why, what actually finished and what is next. Blockers close the page, each with the person who has to clear it and how long it has been open.

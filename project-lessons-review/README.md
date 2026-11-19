@@ -4,6 +4,8 @@ When a phase or a project ends, the project manager gets one blameless review: w
 
 *Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/project-lessons-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/project-lessons-review/?from=gh-project-lessons-review)
+
 ## The outcome
 
 The next project starts better than the last one finished. The review sets each result beside the aim it was meant to serve and gives a plain verdict, and it says so when a result is not in yet instead of guessing. Every day of delay and every amount over budget is traced to a recorded change, or shown openly as untraced, so the team discusses facts rather than impressions.

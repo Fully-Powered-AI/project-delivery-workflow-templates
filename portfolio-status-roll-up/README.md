@@ -4,6 +4,8 @@ The head of delivery takes one page to leadership each fortnight or month, built
 
 *Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/portfolio-status-roll-up/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/portfolio-status-roll-up/?from=gh-portfolio-status-roll-up)
+
 ## The outcome
 
 Leadership sees every project on one page, in the same shape every period, without anyone rewriting the leads' reports. Each project carries the colour its own lead gave it, the reason the lead gave, what finished since last time and the lead's forecast beside the planned end. A count at the top shows how many projects are red, amber and green, and which changed since the last roll-up.

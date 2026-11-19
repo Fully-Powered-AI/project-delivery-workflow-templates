@@ -4,6 +4,8 @@ Before kickoff, the project manager holds one map of everyone the project touche
 
 *Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/stakeholder-and-decision-rights-map/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/stakeholder-and-decision-rights-map/?from=gh-stakeholder-and-decision-rights-map)
+
 ## The outcome
 
 A project that crosses teams starts with its people and its decisions on one page instead of in someone's head. Every group whose work, results or systems the project touches is listed, with what changes for them and what they control. Each is placed by influence and interest, using rules tied to those facts, so the people who can stop the project and the people whose day changes most are both easy to see.

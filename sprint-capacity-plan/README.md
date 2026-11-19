@@ -4,6 +4,8 @@ Before each planning meeting, the delivery lead or scrum master brings a draft p
 
 *Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/sprint-capacity-plan/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/sprint-capacity-plan/?from=gh-project-delivery-sprint-capacity-plan)
+
 ## The outcome
 
 The planning meeting starts from a page instead of a blank board. Everyone sees how many working days the sprint holds once weekends, holidays and each person's time away are taken out, what the team actually finished in its last few sprints, and the figure that gives for this one, with a low and a high end so the risk is visible.

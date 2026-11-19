@@ -4,6 +4,8 @@ When a new initiative is proposed, the portfolio owner sees it scored on the bus
 
 *Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/project-intake-and-capacity-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/project-intake-and-capacity-review/?from=gh-project-intake-and-capacity-review)
+
 ## The outcome
 
 A proposal stops being a matter of who argued best in the meeting. The portfolio owner gets a short review that places the new initiative in the same ranking as everything already committed, using the criteria the business has already agreed on, with the evidence behind every score quoted from the proposal itself.

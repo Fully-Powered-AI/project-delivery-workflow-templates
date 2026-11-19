@@ -4,6 +4,8 @@ When a finished deliverable is ready for the team that will run it, the project 
 
 *Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/project-handover-readiness-check/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/project-handover-readiness-check/?from=gh-project-handover-readiness-check)
+
 ## The outcome
 
 The handover meeting starts from facts instead of goodwill. Every requirement the receiving team wrote down sits on one page with a plain status beside it: met, partly met, not met, not evidenced, or for the receiving owner to judge. Every gap is spelled out: which access is still only requested, who has been trained but has not yet done the work alone, which support topic has a name against it but no agreement, which serious defect has no workaround yet.
