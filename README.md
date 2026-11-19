@@ -5,7 +5,7 @@ FullyPowered Workflow Templates for project and delivery teams turn the AI your 
 We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for project and delivery teams](https://fullypowered.ai/functions/project-and-delivery/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-readme&from=gh-project-delivery-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-readme&from=gh-project-delivery-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for project and delivery teams](https://fullypowered.ai/functions/project-and-delivery/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-readme&from=gh-project-delivery-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-readme&from=gh-project-delivery-readme). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Who this is for**
 
@@ -26,7 +26,18 @@ We are FullyPowered AI. We build AI workflows for companies, and these are the t
 1. **Turn your team's updates into a status report.** Open ChatGPT, Claude, Copilot or Gemini. Copy the text below into a new chat, replace the square brackets with what you have, and send it. Use the updates your team already wrote this week. Nothing needs to be downloaded or signed up for.
 
    ```text
-   You are helping me draft a status report for one project and one period. I will read it, confirm every colour and decide what to send. You prepare; I decide. Do not send anything, mark anything done or change any plan. Here is my milestone plan: [paste your milestones, owners, due dates and the evidence needed]. Here are this period's updates from each workstream lead: [paste them]. Here is last period's report: [paste it]. My notes: [paste anything the sponsor decided]. Write one page for the sponsor: an overall red, amber or green with one sentence of reason; decisions needed and by when; dates at risk; each workstream with its reason; and open blockers. Call a milestone done only if the evidence is there. Then list, for me only, the statuses to confirm and the questions you could not answer.
+   You are helping me draft a status report for one project and one period.
+   I will read it, confirm every colour and decide what to send. You
+   prepare; I decide. Do not send anything, mark anything done or change
+   any plan. Here is my milestone plan: [paste your milestones, owners, due
+   dates and the evidence needed]. Here are this period's updates from each
+   workstream lead: [paste them]. Here is last period's report: [paste it].
+   My notes: [paste anything the sponsor decided]. Write one page for the
+   sponsor: an overall red, amber or green with one sentence of reason;
+   decisions needed and by when; dates at risk; each workstream with its
+   reason; and open blockers. Call a milestone done only if the evidence is
+   there. Then list, for me only, the statuses to confirm and the questions
+   you could not answer.
    ```
 
 2. Read what comes back. It marks what it checked and what is left for you. What comes back, with invented data:
