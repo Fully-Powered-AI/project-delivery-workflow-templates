@@ -1,10 +1,17 @@
 # Project scope baseline
 
-A project manager turns an approved brief into a draft scope baseline: the deliverables, what is excluded, the acceptance criteria for each deliverable, the constraints and the open questions for the sponsor. Nothing implied counts as scope until the sponsor says so.
+Turn an approved brief into a draft scope baseline with deliverables, acceptance criteria, exclusions and sponsor questions. People agree the scope.
 
-*Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/project-scope-baseline/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Project scope baseline on our website](https://fullypowered.ai/workflows/project-scope-baseline/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-scope-baseline&from=gh-project-scope-baseline) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/project-scope-baseline/?from=gh-project-scope-baseline)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/project-scope-baseline/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-scope-baseline&from=gh-project-scope-baseline)*
 
 ## The outcome
 
@@ -39,15 +46,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/), where the first piece of work after approval is agreeing what the project will and will not deliver.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where internal projects and client implementations both start from a short brief.
-- [Software and technology](https://fullypowered.ai/industries/software-technology/), where "done" for each deliverable is argued about most.
-- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/), where an internal system or process change has to be scoped between project deadlines.
-- [Construction](https://fullypowered.ai/industries/construction/), for the office-side and yard-side projects a contractor runs for itself.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where the sponsor has little time and needs one page to react to.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when the company begins running several projects at once and briefs get looser.
+- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-scope-baseline&from=gh-project-scope-baseline), where the first piece of work after approval is agreeing what the project will and will not deliver.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-scope-baseline&from=gh-project-scope-baseline), where internal projects and client implementations both start from a short brief.
+- [Software and technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-scope-baseline&from=gh-project-scope-baseline), where "done" for each deliverable is argued about most.
+- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-scope-baseline&from=gh-project-scope-baseline), where an internal system or process change has to be scoped between project deadlines.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-scope-baseline&from=gh-project-scope-baseline), for the office-side and yard-side projects a contractor runs for itself.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-scope-baseline&from=gh-project-scope-baseline), where the sponsor has little time and needs one page to react to.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-scope-baseline&from=gh-project-scope-baseline), when the company begins running several projects at once and briefs get looser.
 
-It sits before [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/), which sets up the tests for an AI pilot, and before [Project status report](https://fullypowered.ai/workflows/project-status-report/), which reports against the plan once it exists. [Decision log](https://fullypowered.ai/workflows/decision-log/) keeps the sponsor's answers to the open questions.
+It sits before [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-scope-baseline&from=gh-project-scope-baseline), which sets up the tests for an AI pilot, and before [Project status report](https://fullypowered.ai/workflows/project-status-report/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-scope-baseline&from=gh-project-scope-baseline), which reports against the plan once it exists. [Decision log](https://fullypowered.ai/workflows/decision-log/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-scope-baseline&from=gh-project-scope-baseline) keeps the sponsor's answers to the open questions.
 
 ## What has to change for your company
 
@@ -57,7 +64,7 @@ Decide who counts as the sponsor and who may accept a deliverable; the draft ask
 
 FullyPowered AI wrote this workflow template from its own published map of the work, with no third-party text. It was editorially reviewed on 10 November 2026. It was tried once on its invented example on 10 November 2026 in Claude, and the record is published with it. The run showed the same four deliverables, the same two exclusions from the brief and the same $30,000 working; it differed on the blocking count (9 against the example's 8) and on how the shared-drive and invoice-payment remarks were classified. The edits made after that run, to the instructions on those points, to the wording of a few rules and to the example, have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on the brief of a project you finished and remember well, then checking the draft against what the team and the sponsor argued about later: the deliverable nobody listed, the exclusion nobody wrote down, the acceptance test that was never agreed. The project manager checks every line against the sources before the draft goes to the sponsor. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets up cases like these.
+Testing in your environment means running it on the brief of a project you finished and remember well, then checking the draft against what the team and the sponsor argued about later: the deliverable nobody listed, the exclusion nobody wrote down, the acceptance test that was never agreed. The project manager checks every line against the sources before the draft goes to the sponsor. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-scope-baseline&from=gh-project-scope-baseline) sets up cases like these.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -85,9 +92,9 @@ Testing in your environment means running it on the brief of a project you finis
 ## Related workflow templates
 
 - [Project status report](../project-status-report/)
-- [Decision log](https://fullypowered.ai/workflows/decision-log/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
+- [Decision log](https://fullypowered.ai/workflows/decision-log/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-scope-baseline&from=gh-project-scope-baseline)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-scope-baseline&from=gh-project-scope-baseline)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-scope-baseline&from=gh-project-scope-baseline).

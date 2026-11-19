@@ -1,10 +1,17 @@
 # Project lessons review
 
-When a phase or a project ends, the project manager gets one blameless review: whether it achieved what it was for, how scope, schedule and budget moved and why, whether the success measures were the right ones, and practice changes for the team to choose, each with an owner and a follow-up date.
+Turn a finished phase or project into one blameless review with traced changes and practice changes to choose, each with an owner and follow-up date.
 
-*Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/project-lessons-review/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Project lessons review on our website](https://fullypowered.ai/workflows/project-lessons-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-lessons-review&from=gh-project-lessons-review) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/project-lessons-review/?from=gh-project-lessons-review)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/project-lessons-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-lessons-review&from=gh-project-lessons-review)*
 
 ## The outcome
 
@@ -37,24 +44,24 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/), which owns the plan, the change log and the lessons that shape the next one.
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), which often runs the internal projects and keeps the practices they change.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where internal projects compete with client work and a phase that slips costs billable time.
-- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/), where every project ends with a close-out and the lessons should reach the next bid.
-- [Construction](https://fullypowered.ai/industries/construction/), for the office-side projects and the end-of-phase look back before the next job starts.
-- [Software and technology](https://fullypowered.ai/industries/software-technology/), where delivery teams finish a release or a client implementation and want the next one to run cleaner.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where the same mistakes return because nobody wrote down what the last project taught.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when a company starts running more projects than any one person can remember.
+- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-lessons-review&from=gh-project-lessons-review), which owns the plan, the change log and the lessons that shape the next one.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-lessons-review&from=gh-project-lessons-review), which often runs the internal projects and keeps the practices they change.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-lessons-review&from=gh-project-lessons-review), where internal projects compete with client work and a phase that slips costs billable time.
+- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-lessons-review&from=gh-project-lessons-review), where every project ends with a close-out and the lessons should reach the next bid.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-lessons-review&from=gh-project-lessons-review), for the office-side projects and the end-of-phase look back before the next job starts.
+- [Software and technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-lessons-review&from=gh-project-lessons-review), where delivery teams finish a release or a client implementation and want the next one to run cleaner.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-lessons-review&from=gh-project-lessons-review), where the same mistakes return because nobody wrote down what the last project taught.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-lessons-review&from=gh-project-lessons-review), when a company starts running more projects than any one person can remember.
 
 ## What has to change for your company
 
-Write numbered aims into every project charter, and give every success measure its aim, a starting value, a target and a level agreed in advance as a miss. Keep a change log that records each change's effect on days and cost and who approved it; the review is only as clear as that log. Decide whether you count calendar or working days. Map your tracker's export headings once. Decide where chosen changes live, such as a project playbook, and who keeps it. For incidents, launches and lost deals, use [Incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/), [Launch checklist](https://fullypowered.ai/workflows/launch-checklist/) and [Win-loss review](https://fullypowered.ai/workflows/win-loss-review/); while a project is still running, use [Project status report](https://fullypowered.ai/workflows/project-status-report/). It runs in ChatGPT, Claude, Copilot or Gemini from files and notes you supply; it needs no connection to your project software.
+Write numbered aims into every project charter, and give every success measure its aim, a starting value, a target and a level agreed in advance as a miss. Keep a change log that records each change's effect on days and cost and who approved it; the review is only as clear as that log. Decide whether you count calendar or working days. Map your tracker's export headings once. Decide where chosen changes live, such as a project playbook, and who keeps it. For incidents, launches and lost deals, use [Incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-lessons-review&from=gh-project-lessons-review), [Launch checklist](https://fullypowered.ai/workflows/launch-checklist/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-lessons-review&from=gh-project-lessons-review) and [Win-loss review](https://fullypowered.ai/workflows/win-loss-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-lessons-review&from=gh-project-lessons-review); while a project is still running, use [Project status report](https://fullypowered.ai/workflows/project-status-report/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-lessons-review&from=gh-project-lessons-review). It runs in ChatGPT, Claude, Copilot or Gemini from files and notes you supply; it needs no connection to your project software.
 
 ## What has been checked
 
 FullyPowered AI wrote this workflow template, drawing on one published open-source method credited in its sources. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026, in one run; the record of that run is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three past projects your project manager remembers well, with hard cases written in advance: a delay no change explains, a change nobody approved, a measure with no result yet, a vague lesson, and a remark about a person that must be left out. The project manager checks every split and every mark against the plan before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets up those cases.
+Testing in your environment means running it on two or three past projects your project manager remembers well, with hard cases written in advance: a delay no change explains, a change nobody approved, a measure with no result yet, a vague lesson, and a remark about a person that must be left out. The project manager checks every split and every mark against the plan before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-lessons-review&from=gh-project-lessons-review) sets up those cases.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -82,9 +89,9 @@ Testing in your environment means running it on two or three past projects your 
 ## Related workflow templates
 
 - [Project status report](../project-status-report/)
-- [Premortem before a decision](https://fullypowered.ai/workflows/premortem-before-a-decision/)
-- [Decision log](https://fullypowered.ai/workflows/decision-log/)
+- [Premortem before a decision](https://fullypowered.ai/workflows/premortem-before-a-decision/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-lessons-review&from=gh-project-lessons-review)
+- [Decision log](https://fullypowered.ai/workflows/decision-log/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-lessons-review&from=gh-project-lessons-review)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-lessons-review&from=gh-project-lessons-review).

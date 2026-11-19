@@ -1,10 +1,17 @@
 # Project portfolio status roll-up
 
-The head of delivery takes one page to leadership each fortnight or month, built from the reports project leads already write: every project red, amber or green as its own lead stated it, what moved, the decisions leadership is asked for, and where two reports contradict each other or a status has no reason.
+One page for leadership from the reports project leads already write: each status as stated, decisions asked, and where reports contradict each other.
 
-*Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/portfolio-status-roll-up/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Project portfolio status roll-up on our website](https://fullypowered.ai/workflows/portfolio-status-roll-up/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-portfolio-status-roll-up&from=gh-portfolio-status-roll-up) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/portfolio-status-roll-up/?from=gh-portfolio-status-roll-up)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/portfolio-status-roll-up/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-portfolio-status-roll-up&from=gh-portfolio-status-roll-up)*
 
 ## The outcome
 
@@ -38,15 +45,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/), which answers to leadership for every project at once, not one at a time.
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), where the head of operations often holds the project list in a company without a delivery office.
-- [Leadership](https://fullypowered.ai/functions/leadership/), which reads the page and owns the decisions on it.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where internal projects run beside client work and leadership wants them in one view.
-- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/), where a new system, a new office and a new service line can all be in flight in the same quarter.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where a new line, a warehouse move and a system change depend on each other's dates.
-- [Software technology](https://fullypowered.ai/industries/software-technology/), where several product and internal projects report to one leadership team.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where projects run alongside a full working week and leadership has minutes for them, not hours.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when the company starts running more projects than one person can hold in their head.
+- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-portfolio-status-roll-up&from=gh-portfolio-status-roll-up), which answers to leadership for every project at once, not one at a time.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-portfolio-status-roll-up&from=gh-portfolio-status-roll-up), where the head of operations often holds the project list in a company without a delivery office.
+- [Leadership](https://fullypowered.ai/functions/leadership/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-portfolio-status-roll-up&from=gh-portfolio-status-roll-up), which reads the page and owns the decisions on it.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-portfolio-status-roll-up&from=gh-portfolio-status-roll-up), where internal projects run beside client work and leadership wants them in one view.
+- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-portfolio-status-roll-up&from=gh-portfolio-status-roll-up), where a new system, a new office and a new service line can all be in flight in the same quarter.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-portfolio-status-roll-up&from=gh-portfolio-status-roll-up), where a new line, a warehouse move and a system change depend on each other's dates.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-portfolio-status-roll-up&from=gh-portfolio-status-roll-up), where several product and internal projects report to one leadership team.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-portfolio-status-roll-up&from=gh-portfolio-status-roll-up), where projects run alongside a full working week and leadership has minutes for them, not hours.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-portfolio-status-roll-up&from=gh-portfolio-status-roll-up), when the company starts running more projects than one person can hold in their head.
 
 ## What has to change for your company
 
@@ -56,7 +63,7 @@ Decide who reads the page and how long before the meeting it goes out. Agree onc
 
 FullyPowered AI wrote this workflow template as an original method, with no third-party source. It was editorially reviewed on 12 November 2026. It was tried once on its invented example, in Claude on 12 November 2026; the run was not fully blind, and its record is published with it. The findings of that run were then acted on in the template's steps and instructions, and those edits have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three past periods your head of delivery remembers, with hard cases written in advance: a project that sends no report, a lead who writes "on track" instead of a colour, two reports that give different dates for the same handover, a decision from last time that nobody mentions. The head of delivery checks every status against the reports as written before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets up those cases, [Project status report](https://fullypowered.ai/workflows/project-status-report/) prepares each project's own report, and [Decision log](https://fullypowered.ai/workflows/decision-log/) keeps leadership's answers once they are given.
+Testing in your environment means running it on two or three past periods your head of delivery remembers, with hard cases written in advance: a project that sends no report, a lead who writes "on track" instead of a colour, two reports that give different dates for the same handover, a decision from last time that nobody mentions. The head of delivery checks every status against the reports as written before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-portfolio-status-roll-up&from=gh-portfolio-status-roll-up) sets up those cases, [Project status report](https://fullypowered.ai/workflows/project-status-report/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-portfolio-status-roll-up&from=gh-portfolio-status-roll-up) prepares each project's own report, and [Decision log](https://fullypowered.ai/workflows/decision-log/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-portfolio-status-roll-up&from=gh-portfolio-status-roll-up) keeps leadership's answers once they are given.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -85,8 +92,8 @@ Testing in your environment means running it on two or three past periods your h
 
 - [Project status report](../project-status-report/)
 - [Project intake and capacity review](../project-intake-and-capacity-review/)
-- [Decision log](https://fullypowered.ai/workflows/decision-log/)
+- [Decision log](https://fullypowered.ai/workflows/decision-log/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-portfolio-status-roll-up&from=gh-portfolio-status-roll-up)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-portfolio-status-roll-up&from=gh-portfolio-status-roll-up).

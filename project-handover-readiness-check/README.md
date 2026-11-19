@@ -1,10 +1,17 @@
 # Project handover readiness check
 
-When a finished deliverable is ready for the team that will run it, the project manager brings one checklist against that team's own requirements: acceptance evidence, instructions, access, training, support owners and open items. The receiving owner accepts or names the conditions still to meet.
+Check a finished deliverable against the receiving team's own requirements: evidence, access, training, support owners and open items. The owner decides.
 
-*Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/project-handover-readiness-check/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Project handover readiness check on our website](https://fullypowered.ai/workflows/project-handover-readiness-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-handover-readiness-check&from=gh-project-handover-readiness-check) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/project-handover-readiness-check/?from=gh-project-handover-readiness-check)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/project-handover-readiness-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-handover-readiness-check&from=gh-project-handover-readiness-check)*
 
 ## The outcome
 
@@ -38,14 +45,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/), which owns the moment a project's work becomes someone else's to run.
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), often the team on the receiving end of a new system or a rebuilt process.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where internal projects hand new tools to the people who serve clients every day.
-- [Software and technology](https://fullypowered.ai/industries/software-technology/), where a release passes from the people who built it to the people who support it.
-- [Construction](https://fullypowered.ai/industries/construction/), where a finished site or system passes to the team that will operate and maintain it.
-- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/), where delivered systems and processes need an owner the day the project team moves on.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when new systems arrive faster than teams can absorb them.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where a handover too often means one email and a shared folder.
+- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-handover-readiness-check&from=gh-project-handover-readiness-check), which owns the moment a project's work becomes someone else's to run.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-handover-readiness-check&from=gh-project-handover-readiness-check), often the team on the receiving end of a new system or a rebuilt process.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-handover-readiness-check&from=gh-project-handover-readiness-check), where internal projects hand new tools to the people who serve clients every day.
+- [Software and technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-handover-readiness-check&from=gh-project-handover-readiness-check), where a release passes from the people who built it to the people who support it.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-handover-readiness-check&from=gh-project-handover-readiness-check), where a finished site or system passes to the team that will operate and maintain it.
+- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-handover-readiness-check&from=gh-project-handover-readiness-check), where delivered systems and processes need an owner the day the project team moves on.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-handover-readiness-check&from=gh-project-handover-readiness-check), when new systems arrive faster than teams can absorb them.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-handover-readiness-check&from=gh-project-handover-readiness-check), where a handover too often means one email and a shared folder.
 
 ## What has to change for your company
 
@@ -55,7 +62,7 @@ The receiving owner writes the requirements list once for each kind of deliverab
 
 FullyPowered AI wrote this workflow template from its own published map of the work. It was editorially reviewed on 10 November 2026. It was tried once on its invented example on 10 November 2026, and the record is published with it. Small edits made to the template after that run were not run again; the record lists them. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three past handovers your receiving owners remember, plus hard cases written in advance, each with its expected result: a guide offered where a demonstration is required, a support owner who never agreed, a gap in support cover, a list with a renamed column, an access list with a password typed into it. The project manager and the receiving owner check every status and every date before anyone relies on the checklist. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [SOP from how the work is done](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/) writes the operating guide the receiving team will need.
+Testing in your environment means running it on two or three past handovers your receiving owners remember, plus hard cases written in advance, each with its expected result: a guide offered where a demonstration is required, a support owner who never agreed, a gap in support cover, a list with a renamed column, an access list with a password typed into it. The project manager and the receiving owner check every status and every date before anyone relies on the checklist. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-handover-readiness-check&from=gh-project-handover-readiness-check) sets those cases up, and [SOP from how the work is done](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-handover-readiness-check&from=gh-project-handover-readiness-check) writes the operating guide the receiving team will need.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -82,10 +89,10 @@ Testing in your environment means running it on two or three past handovers your
 
 ## Related workflow templates
 
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
-- [Write an SOP from how the work is done](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-handover-readiness-check&from=gh-project-handover-readiness-check)
+- [Write an SOP from how the work is done](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-handover-readiness-check&from=gh-project-handover-readiness-check)
 - [Project status report](../project-status-report/)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-handover-readiness-check&from=gh-project-handover-readiness-check).

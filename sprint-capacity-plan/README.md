@@ -1,10 +1,17 @@
 # Sprint plan against capacity
 
-Before each planning meeting, the delivery lead or scrum master brings a draft plan for the next sprint: the days each person really has, a forecast from the team's own recent delivery, the carryover, the ranked backlog cut at that figure, and what each item waits on. The team decides the commitment.
+Bring a draft sprint plan to planning: each person's real days, a forecast from recent delivery, the carryover and the ranked backlog cut at that figure.
 
-*Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/sprint-capacity-plan/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Sprint plan against capacity on our website](https://fullypowered.ai/workflows/sprint-capacity-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-sprint-capacity-plan&from=gh-project-delivery-sprint-capacity-plan) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/sprint-capacity-plan/?from=gh-project-delivery-sprint-capacity-plan)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/sprint-capacity-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-sprint-capacity-plan&from=gh-project-delivery-sprint-capacity-plan)*
 
 ## The outcome
 
@@ -36,14 +43,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/), which runs the planning meeting and keeps the iteration rhythm.
-- [Software engineering](https://fullypowered.ai/functions/software-engineering/), where the backlog, the carryover and the dependencies between items decide what a sprint can hold.
-- [Software technology](https://fullypowered.ai/industries/software-technology/), where product teams plan in sprints and a holiday week leaves fewer days than the board assumes.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/), where agency and in-house teams run campaigns and content in sprints and share designers across teams.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where the store's own team plans site and catalogue work in sprints around trading peaks.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where delivery teams work client implementations in sprints and lose people to other engagements.
-- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/), when new teams form and need a planning habit that holds up.
-- [Startups and new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/), where a small team with part-time members has to plan honestly from the start.
+- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-sprint-capacity-plan&from=gh-project-delivery-sprint-capacity-plan), which runs the planning meeting and keeps the iteration rhythm.
+- [Software engineering](https://fullypowered.ai/functions/software-engineering/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-sprint-capacity-plan&from=gh-project-delivery-sprint-capacity-plan), where the backlog, the carryover and the dependencies between items decide what a sprint can hold.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-sprint-capacity-plan&from=gh-project-delivery-sprint-capacity-plan), where product teams plan in sprints and a holiday week leaves fewer days than the board assumes.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-sprint-capacity-plan&from=gh-project-delivery-sprint-capacity-plan), where agency and in-house teams run campaigns and content in sprints and share designers across teams.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-sprint-capacity-plan&from=gh-project-delivery-sprint-capacity-plan), where the store's own team plans site and catalogue work in sprints around trading peaks.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-sprint-capacity-plan&from=gh-project-delivery-sprint-capacity-plan), where delivery teams work client implementations in sprints and lose people to other engagements.
+- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-sprint-capacity-plan&from=gh-project-delivery-sprint-capacity-plan), when new teams form and need a planning habit that holds up.
+- [Startups and new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-sprint-capacity-plan&from=gh-project-delivery-sprint-capacity-plan), where a small team with part-time members has to plan honestly from the start.
 
 ## What has to change for your company
 
@@ -53,7 +60,7 @@ Map your board's column names to the template's once and keep the map with the s
 
 FullyPowered AI wrote this workflow template from its own published map of the work. It was editorially reviewed on 11 November 2026. It was tried once on its invented example in Claude on 11 November 2026, and the record of that run is published with it. The run reached no stop condition; the acceptance tests were not run. It has not yet been tested in a client environment, and has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three past sprints your team remembers well, plus hard cases written in advance, each with its expected behaviour: a sprint with a holiday inside it, a renamed column in the board export, carried work with no remaining size, an item ranked high that waits on unfinished work, a team with only one past sprint. The delivery lead checks every figure against the board and the calendar before the team relies on the draft. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on two or three past sprints your team remembers well, plus hard cases written in advance, each with its expected behaviour: a sprint with a holiday inside it, a renamed column in the board export, carried work with no remaining size, an item ranked high that waits on unfinished work, a team with only one past sprint. The delivery lead checks every figure against the board and the calendar before the team relies on the draft. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-sprint-capacity-plan&from=gh-project-delivery-sprint-capacity-plan) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-sprint-capacity-plan&from=gh-project-delivery-sprint-capacity-plan) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -81,9 +88,9 @@ Testing in your environment means running it on two or three past sprints your t
 ## Related workflow templates
 
 - [Project intake and capacity review](../project-intake-and-capacity-review/)
-- [Roadmap tradeoff review](https://fullypowered.ai/workflows/roadmap-tradeoff-review/)
-- [Acceptance criteria sheet](https://fullypowered.ai/workflows/acceptance-criteria-sheet/)
+- [Roadmap tradeoff review](https://fullypowered.ai/workflows/roadmap-tradeoff-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-sprint-capacity-plan&from=gh-project-delivery-sprint-capacity-plan)
+- [Acceptance criteria sheet](https://fullypowered.ai/workflows/acceptance-criteria-sheet/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-sprint-capacity-plan&from=gh-project-delivery-sprint-capacity-plan)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-sprint-capacity-plan&from=gh-project-delivery-sprint-capacity-plan).

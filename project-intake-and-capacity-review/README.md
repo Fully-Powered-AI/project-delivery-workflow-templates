@@ -1,10 +1,17 @@
 # Project intake and capacity review
 
-When a new initiative is proposed, the portfolio owner sees it scored on the business's own criteria beside the projects already committed, the delivery days it would use month by month, and what it would crowd out or push later. The owner accepts, defers or rejects it.
+Score a new initiative beside committed projects and see the delivery days it would use each month. The portfolio owner accepts, defers or rejects.
 
-*Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/project-intake-and-capacity-review/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Project intake and capacity review on our website](https://fullypowered.ai/workflows/project-intake-and-capacity-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-intake-and-capacity-review&from=gh-project-intake-and-capacity-review) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/project-intake-and-capacity-review/?from=gh-project-intake-and-capacity-review)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/project-intake-and-capacity-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-intake-and-capacity-review&from=gh-project-intake-and-capacity-review)*
 
 ## The outcome
 
@@ -35,14 +42,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where the same few people serve client work and internal projects and each new idea takes days from both.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/), where design and build time is the scarce thing and every campaign or tool request competes for it.
-- [Software technology](https://fullypowered.ai/industries/software-technology/), where developer days are the limit and the roadmap has more asks than days.
-- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/), where internal improvement projects draw on the same engineers as billable work.
-- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/), which owns the committed list and the dates.
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), where improvement ideas arrive faster than anyone can staff them.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where new initiatives land on a team that is already full.
-- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/), where the number of good ideas passes the number of available people.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-intake-and-capacity-review&from=gh-project-intake-and-capacity-review), where the same few people serve client work and internal projects and each new idea takes days from both.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-intake-and-capacity-review&from=gh-project-intake-and-capacity-review), where design and build time is the scarce thing and every campaign or tool request competes for it.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-intake-and-capacity-review&from=gh-project-intake-and-capacity-review), where developer days are the limit and the roadmap has more asks than days.
+- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-intake-and-capacity-review&from=gh-project-intake-and-capacity-review), where internal improvement projects draw on the same engineers as billable work.
+- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-intake-and-capacity-review&from=gh-project-intake-and-capacity-review), which owns the committed list and the dates.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-intake-and-capacity-review&from=gh-project-intake-and-capacity-review), where improvement ideas arrive faster than anyone can staff them.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-intake-and-capacity-review&from=gh-project-intake-and-capacity-review), where new initiatives land on a team that is already full.
+- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-intake-and-capacity-review&from=gh-project-intake-and-capacity-review), where the number of good ideas passes the number of available people.
 
 ## What has to change for your company
 
@@ -52,7 +59,7 @@ Write your own criteria and weights, and say in a line what a 1, a 3 and a 5 mea
 
 FullyPowered AI wrote this workflow template, drawing on one published open-source method credited in its sources. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record of that run is published with it. The run produced every part of the review and reached no stop condition; the acceptance tests in the template were not run. After an earlier run, the example was made to say where its count came from, the scoring of a goal and the treatment of a 0-day row were settled in the instructions, and the run on this version is the one recorded. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three past proposals whose outcome you already know, with hard cases written in advance: a proposal with no stated benefit, a role already over its ceiling before the proposal, fixed work that makes the gap unsolvable, a capacity export with a renamed column. The portfolio owner checks every score and every day count before anyone relies on it. [Project status report](https://fullypowered.ai/workflows/project-status-report/) then reports on a project once it is running, and [Headcount plan](https://fullypowered.ai/workflows/headcount-plan/) is the place to look when the answer to a capacity gap is more people.
+Testing in your environment means running it on two or three past proposals whose outcome you already know, with hard cases written in advance: a proposal with no stated benefit, a role already over its ceiling before the proposal, fixed work that makes the gap unsolvable, a capacity export with a renamed column. The portfolio owner checks every score and every day count before anyone relies on it. [Project status report](https://fullypowered.ai/workflows/project-status-report/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-intake-and-capacity-review&from=gh-project-intake-and-capacity-review) then reports on a project once it is running, and [Headcount plan](https://fullypowered.ai/workflows/headcount-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-intake-and-capacity-review&from=gh-project-intake-and-capacity-review) is the place to look when the answer to a capacity gap is more people.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -80,9 +87,9 @@ Testing in your environment means running it on two or three past proposals whos
 ## Related workflow templates
 
 - [Project status report](../project-status-report/)
-- [Headcount plan](https://fullypowered.ai/workflows/headcount-plan/)
-- [Workflow fit check: is this piece of work ready for AI?](https://fullypowered.ai/workflows/workflow-fit-check/)
+- [Headcount plan](https://fullypowered.ai/workflows/headcount-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-intake-and-capacity-review&from=gh-project-intake-and-capacity-review)
+- [Workflow fit check: is this piece of work ready for AI?](https://fullypowered.ai/workflows/workflow-fit-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-intake-and-capacity-review&from=gh-project-intake-and-capacity-review)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-intake-and-capacity-review&from=gh-project-intake-and-capacity-review).

@@ -1,10 +1,17 @@
 # Scope change impact review
 
-When new work turns up in a project plan, the project manager gets one review: every deliverable compared with the agreed baseline, each addition marked approved or not, its estimated effect on effort, cost and the end date, and the decision the sponsor has to make. The sponsor accepts or declines each one.
+Compare a project plan with the agreed baseline and see each addition's effect on effort, cost and end date. The sponsor accepts or declines each one.
 
-*Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/scope-change-impact-review/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Scope change impact review on our website](https://fullypowered.ai/workflows/scope-change-impact-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-scope-change-impact-review&from=gh-scope-change-impact-review) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/scope-change-impact-review/?from=gh-scope-change-impact-review)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/scope-change-impact-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-scope-change-impact-review&from=gh-scope-change-impact-review)*
 
 ## The outcome
 
@@ -39,13 +46,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/), which holds the baseline and answers to the sponsor for every change to it.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where internal projects and client work compete for the same people's days.
-- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/), where a deliverable that quietly grows can take a team's slack before anyone notices.
-- [Construction](https://fullypowered.ai/industries/construction/), for the office-side projects: a new estimating system, a new yard, a new reporting pack.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/), where requests arrive in every meeting and the plan absorbs them one at a time.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when more projects run at once and nobody has time to police each plan by hand.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where projects run beside a full working week and the sponsor needs the decision, not the history.
+- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-scope-change-impact-review&from=gh-scope-change-impact-review), which holds the baseline and answers to the sponsor for every change to it.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-scope-change-impact-review&from=gh-scope-change-impact-review), where internal projects and client work compete for the same people's days.
+- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-scope-change-impact-review&from=gh-scope-change-impact-review), where a deliverable that quietly grows can take a team's slack before anyone notices.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-scope-change-impact-review&from=gh-scope-change-impact-review), for the office-side projects: a new estimating system, a new yard, a new reporting pack.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-scope-change-impact-review&from=gh-scope-change-impact-review), where requests arrive in every meeting and the plan absorbs them one at a time.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-scope-change-impact-review&from=gh-scope-change-impact-review), when more projects run at once and nobody has time to police each plan by hand.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-scope-change-impact-review&from=gh-scope-change-impact-review), where projects run beside a full working week and the sponsor needs the decision, not the history.
 
 ## What has to change for your company
 
@@ -55,7 +62,7 @@ Name who sponsors each project and which roles may approve a change; some compan
 
 FullyPowered AI wrote this workflow template from its own published map of project and delivery work. It was editorially reviewed on 10 November 2026. It was tried once on its invented example on 10 November 2026 in Claude, and the run matched the example in every figure, date, order and count. It left a few points for judgement, which the published record lists: what the money figure in the position is, whether a moved date needs its own approval, and how to treat a change the requester made themselves. Small clarifications made afterward have not been run again. It has not yet been tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three past changes your project manager remembers, plus hard cases written in advance: an addition agreed only in a meeting, a deliverable that grew from 40 items to 55, a declined change still in the plan, a change with no estimate, and two changes that each move the end date. The project manager checks every figure against the estimates and the change log before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [Decision log](https://fullypowered.ai/workflows/decision-log/) keeps the sponsor's answers once they are given.
+Testing in your environment means running it on two or three past changes your project manager remembers, plus hard cases written in advance: an addition agreed only in a meeting, a deliverable that grew from 40 items to 55, a declined change still in the plan, a change with no estimate, and two changes that each move the end date. The project manager checks every figure against the estimates and the change log before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-scope-change-impact-review&from=gh-scope-change-impact-review) sets those cases up, and [Decision log](https://fullypowered.ai/workflows/decision-log/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-scope-change-impact-review&from=gh-scope-change-impact-review) keeps the sponsor's answers once they are given.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -83,9 +90,9 @@ Testing in your environment means running it on two or three past changes your p
 ## Related workflow templates
 
 - [Project status report](../project-status-report/)
-- [Decision log](https://fullypowered.ai/workflows/decision-log/)
-- [Client-status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/)
+- [Decision log](https://fullypowered.ai/workflows/decision-log/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-scope-change-impact-review&from=gh-scope-change-impact-review)
+- [Client-status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-scope-change-impact-review&from=gh-scope-change-impact-review)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-scope-change-impact-review&from=gh-scope-change-impact-review).

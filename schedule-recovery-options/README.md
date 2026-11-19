@@ -1,10 +1,17 @@
 # Schedule recovery options
 
-When a committed milestone slips, the project manager brings the sponsor two to four ways back: what each changes, the dates it gives every later milestone and dependency, and the assumptions it rests on. The sponsor chooses; delivery leads confirm the dates.
+When a milestone slips, get two to four ways back with the new dates, assumptions and who must confirm each. The sponsor chooses; a person decides.
 
-*Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/schedule-recovery-options/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Schedule recovery options on our website](https://fullypowered.ai/workflows/schedule-recovery-options/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-schedule-recovery-options&from=gh-schedule-recovery-options) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/schedule-recovery-options/?from=gh-schedule-recovery-options)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/schedule-recovery-options/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-schedule-recovery-options&from=gh-schedule-recovery-options)*
 
 ## The outcome
 
@@ -36,14 +43,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/), where the plan is the promise and a slip has to be answered with choices, not reassurance.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where client work and internal projects compete for the same people.
-- [Construction](https://fullypowered.ai/industries/construction/), where a late task moves the trades and deliveries behind it.
-- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/), where a missed design milestone ripples through reviews and releases.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when more projects run at once than anyone can hold in their head.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where fixed dates such as renewals, closes and seasons limit the choices.
+- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-schedule-recovery-options&from=gh-schedule-recovery-options), where the plan is the promise and a slip has to be answered with choices, not reassurance.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-schedule-recovery-options&from=gh-schedule-recovery-options), where client work and internal projects compete for the same people.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-schedule-recovery-options&from=gh-schedule-recovery-options), where a late task moves the trades and deliveries behind it.
+- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-schedule-recovery-options&from=gh-schedule-recovery-options), where a missed design milestone ripples through reviews and releases.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-schedule-recovery-options&from=gh-schedule-recovery-options), when more projects run at once than anyone can hold in their head.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-schedule-recovery-options&from=gh-schedule-recovery-options), where fixed dates such as renewals, closes and seasons limit the choices.
 
-It stays distinct from [Project status report](https://fullypowered.ai/workflows/project-status-report/), which reports where the project stands, and from [Premortem before a decision](https://fullypowered.ai/workflows/premortem-before-a-decision/), which looks for how a plan could fail before it is approved. This one starts after a date has already been missed.
+It stays distinct from [Project status report](https://fullypowered.ai/workflows/project-status-report/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-schedule-recovery-options&from=gh-schedule-recovery-options), which reports where the project stands, and from [Premortem before a decision](https://fullypowered.ai/workflows/premortem-before-a-decision/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-schedule-recovery-options&from=gh-schedule-recovery-options), which looks for how a plan could fail before it is approved. This one starts after a date has already been missed.
 
 ## What has to change for your company
 
@@ -53,7 +60,7 @@ Decide who counts as the sponsor and who counts as a delivery lead for each opti
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. The dates in its worked example were recomputed from the example's inputs. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it. That run was made by the same session that revised the example, so it was not independent, and it did not exercise the stop conditions, a range forecast, a missing export date or a latest date to ask that had already passed. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past slip your project manager already understands, with cases written in advance: an option that touches the same work as another, a supplier date nobody accepted, a freeze period that moves the answer. The delivery leads check every date before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past slip your project manager already understands, with cases written in advance: an option that touches the same work as another, a supplier date nobody accepted, a freeze period that moves the answer. The delivery leads check every date before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-schedule-recovery-options&from=gh-schedule-recovery-options) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-schedule-recovery-options&from=gh-schedule-recovery-options) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -81,9 +88,9 @@ Testing in your environment means running it on a past slip your project manager
 ## Related workflow templates
 
 - [Project status report](../project-status-report/)
-- [Premortem before a decision](https://fullypowered.ai/workflows/premortem-before-a-decision/)
-- [Decision log](https://fullypowered.ai/workflows/decision-log/)
+- [Premortem before a decision](https://fullypowered.ai/workflows/premortem-before-a-decision/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-schedule-recovery-options&from=gh-schedule-recovery-options)
+- [Decision log](https://fullypowered.ai/workflows/decision-log/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-schedule-recovery-options&from=gh-schedule-recovery-options)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-schedule-recovery-options&from=gh-schedule-recovery-options).

@@ -1,10 +1,17 @@
 # Stakeholder and decision rights map
 
-Before kickoff, the project manager holds one map of everyone the project touches: each group placed by influence and interest, every key decision with exactly one accountable owner, the decision makers still missing, and who hears what, when and from whom. The sponsor confirms every decision right.
+One map of everyone a project touches, each decision with one accountable owner, and who hears what and when. The sponsor confirms every decision right.
 
-*Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/stakeholder-and-decision-rights-map/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Stakeholder and decision rights map on our website](https://fullypowered.ai/workflows/stakeholder-and-decision-rights-map/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-stakeholder-and-decision-rights-map&from=gh-stakeholder-and-decision-rights-map) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/stakeholder-and-decision-rights-map/?from=gh-stakeholder-and-decision-rights-map)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/stakeholder-and-decision-rights-map/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-stakeholder-and-decision-rights-map&from=gh-stakeholder-and-decision-rights-map)*
 
 ## The outcome
 
@@ -34,15 +41,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/), which runs the project and answers for who decides what.
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), which often leads the change in how work is done.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where internal projects compete with client work for the same people.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where a change on the floor touches shifts, suppliers and customers at once.
-- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/), where a new system in the warehouse moves cut-offs, routes and customer promises.
-- [Construction](https://fullypowered.ai/industries/construction/), for the office-side projects that cross estimating, site and finance.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where decision rights grew up by habit and nobody wrote them down.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when projects start to cross teams that used to work alone.
-- [Acquisitions & integration](https://fullypowered.ai/situations/acquisitions-and-integration/), when two companies' managers each believe a decision is theirs.
+- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-stakeholder-and-decision-rights-map&from=gh-stakeholder-and-decision-rights-map), which runs the project and answers for who decides what.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-stakeholder-and-decision-rights-map&from=gh-stakeholder-and-decision-rights-map), which often leads the change in how work is done.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-stakeholder-and-decision-rights-map&from=gh-stakeholder-and-decision-rights-map), where internal projects compete with client work for the same people.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-stakeholder-and-decision-rights-map&from=gh-stakeholder-and-decision-rights-map), where a change on the floor touches shifts, suppliers and customers at once.
+- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-stakeholder-and-decision-rights-map&from=gh-stakeholder-and-decision-rights-map), where a new system in the warehouse moves cut-offs, routes and customer promises.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-stakeholder-and-decision-rights-map&from=gh-stakeholder-and-decision-rights-map), for the office-side projects that cross estimating, site and finance.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-stakeholder-and-decision-rights-map&from=gh-stakeholder-and-decision-rights-map), where decision rights grew up by habit and nobody wrote them down.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-stakeholder-and-decision-rights-map&from=gh-stakeholder-and-decision-rights-map), when projects start to cross teams that used to work alone.
+- [Acquisitions & integration](https://fullypowered.ai/situations/acquisitions-and-integration/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-stakeholder-and-decision-rights-map&from=gh-stakeholder-and-decision-rights-map), when two companies' managers each believe a decision is theirs.
 
 ## What has to change for your company
 
@@ -52,7 +59,7 @@ Use your own column names, mapped once to the defaults. Decide the channel for e
 
 FullyPowered AI wrote this workflow template, drawing on a published open-source method credited in its sources. It was editorially reviewed on 10 November 2026. It was tried once on its invented example on 10 November 2026, and the record of that run is published with it. Small edits made after that run, following an independent review, were not run again; the record is of the earlier wording. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past project your project manager remembers well, with hard cases written in advance: a decision with two accountable owners, an owner who leaves before the decision is due, a group nobody has been named to tell, a note that passes judgment on a colleague. The project manager checks every flag and date before the map goes to the sponsor. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets up those cases, [Decision log](https://fullypowered.ai/workflows/decision-log/) keeps the decisions once they are made, and [Internal change announcement](https://fullypowered.ai/workflows/internal-change-announcement/) writes the messages the plan calls for.
+Testing in your environment means running it on a past project your project manager remembers well, with hard cases written in advance: a decision with two accountable owners, an owner who leaves before the decision is due, a group nobody has been named to tell, a note that passes judgment on a colleague. The project manager checks every flag and date before the map goes to the sponsor. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-stakeholder-and-decision-rights-map&from=gh-stakeholder-and-decision-rights-map) sets up those cases, [Decision log](https://fullypowered.ai/workflows/decision-log/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-stakeholder-and-decision-rights-map&from=gh-stakeholder-and-decision-rights-map) keeps the decisions once they are made, and [Internal change announcement](https://fullypowered.ai/workflows/internal-change-announcement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-stakeholder-and-decision-rights-map&from=gh-stakeholder-and-decision-rights-map) writes the messages the plan calls for.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -80,9 +87,9 @@ Testing in your environment means running it on a past project your project mana
 ## Related workflow templates
 
 - [Project status report](../project-status-report/)
-- [Decision log](https://fullypowered.ai/workflows/decision-log/)
-- [Internal change announcement](https://fullypowered.ai/workflows/internal-change-announcement/)
+- [Decision log](https://fullypowered.ai/workflows/decision-log/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-stakeholder-and-decision-rights-map&from=gh-stakeholder-and-decision-rights-map)
+- [Internal change announcement](https://fullypowered.ai/workflows/internal-change-announcement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-stakeholder-and-decision-rights-map&from=gh-stakeholder-and-decision-rights-map)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-stakeholder-and-decision-rights-map&from=gh-stakeholder-and-decision-rights-map).

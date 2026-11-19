@@ -1,10 +1,17 @@
 # Project status report
 
-The lead of an internal project gets a status report the sponsor can read in two minutes: each workstream red, amber or green with the reason, what moved, who must clear each blocker, the decisions needed and the dates at risk. No milestone is called done without evidence, and the lead confirms every status.
+Give the sponsor a two-minute status report with red, amber or green per workstream, blockers and decisions needed. The project lead confirms every colour.
 
-*Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/project-status-report/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Project status report on our website](https://fullypowered.ai/workflows/project-status-report/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-status-report&from=gh-project-status-report) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/project-status-report/?from=gh-project-status-report)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/project-status-report/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-status-report&from=gh-project-status-report)*
 
 ## The outcome
 
@@ -36,13 +43,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/), which runs the plan and answers to the sponsor for it.
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), which often leads the internal change: the new system, the new site, the new process.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where a firm's internal projects compete with client work for the same people.
-- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/), where an internal system change has to land between project deadlines.
-- [Construction](https://fullypowered.ai/industries/construction/), for the office-side projects: a new estimating system, a new yard, a new safety programme.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where projects run alongside a full working week and the sponsor has minutes, not hours.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when the company starts running several internal projects at once.
+- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-status-report&from=gh-project-status-report), which runs the plan and answers to the sponsor for it.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-status-report&from=gh-project-status-report), which often leads the internal change: the new system, the new site, the new process.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-status-report&from=gh-project-status-report), where a firm's internal projects compete with client work for the same people.
+- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-status-report&from=gh-project-status-report), where an internal system change has to land between project deadlines.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-status-report&from=gh-project-status-report), for the office-side projects: a new estimating system, a new yard, a new safety programme.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-status-report&from=gh-project-status-report), where projects run alongside a full working week and the sponsor has minutes, not hours.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-status-report&from=gh-project-status-report), when the company starts running several internal projects at once.
 
 ## What has to change for your company
 
@@ -52,7 +59,7 @@ Decide who sponsors each project and on which day the report reaches them. Agree
 
 FullyPowered AI wrote this workflow template, drawing on two published open-source methods credited in its sources. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in Claude, in three runs: the instructions were tightened after the first and again after an independent review of the second, and the record of the third is published with it. That run reached the expected colours, counts, order and open questions for the project lead, and left a few points for judgement: whether a forecast that holds only on a condition is enough, and a one-page limit the example only just meets. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three past periods of a project your lead remembers, with hard cases written in advance: a milestone claimed done without proof, a blocker with no owner, a decision past its date, a workstream lead who rates their own work greener than the rules allow. The project lead checks every colour and date against the plan before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets up those cases, and [Decision log](https://fullypowered.ai/workflows/decision-log/) keeps the sponsor's answers once they are given.
+Testing in your environment means running it on two or three past periods of a project your lead remembers, with hard cases written in advance: a milestone claimed done without proof, a blocker with no owner, a decision past its date, a workstream lead who rates their own work greener than the rules allow. The project lead checks every colour and date against the plan before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-status-report&from=gh-project-status-report) sets up those cases, and [Decision log](https://fullypowered.ai/workflows/decision-log/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-status-report&from=gh-project-status-report) keeps the sponsor's answers once they are given.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -79,10 +86,10 @@ Testing in your environment means running it on two or three past periods of a p
 
 ## Related workflow templates
 
-- [Decision log](https://fullypowered.ai/workflows/decision-log/)
-- [Meeting agenda, notes and follow-ups](https://fullypowered.ai/workflows/meeting-agenda-notes-and-follow-ups/)
-- [Client-status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/)
+- [Decision log](https://fullypowered.ai/workflows/decision-log/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-status-report&from=gh-project-status-report)
+- [Meeting agenda, notes and follow-ups](https://fullypowered.ai/workflows/meeting-agenda-notes-and-follow-ups/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-status-report&from=gh-project-status-report)
+- [Client-status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-status-report&from=gh-project-status-report)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-status-report&from=gh-project-status-report).
