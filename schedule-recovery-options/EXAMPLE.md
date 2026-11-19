@@ -1,6 +1,6 @@
-# Schedule recovery options: an invented example
+# Schedule recovery options: an example
 
-*Illustrative example with invented data.* Company A is an invented 45-person services firm replacing its booking and invoicing system. Every name, role, date and figure below is made up, and Vendor B is an invented supplier. The inputs come first, in full, then the page the assistant produces from them.
+*Illustrative example with sample data.* Company A is an illustrative 45-person services firm replacing its booking and invoicing system. Every name, role, date and figure below is made up, and Vendor B is an illustrative supplier. The inputs come first, in full, then the page the assistant produces from them.
 
 ## The inputs
 

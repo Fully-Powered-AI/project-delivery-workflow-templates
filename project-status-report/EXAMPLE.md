@@ -1,6 +1,6 @@
-# Project status report: an invented example
+# Project status report: an example
 
-*Illustrative example with invented data.* The firm, its people, its clients, the project and every date and figure below are invented. The firm is an invented 90-person engineering consultancy replacing its project-accounting system, with go-live set for January. The project lead is the operations manager and the sponsor is the managing director; people are named by role only, and clients by letter. First come the five inputs the operations manager supplied, in full, then the draft the workflow template returned.
+*Illustrative example with sample data.* The firm, its people, its clients, the project and every date and figure below are illustrative. The firm is an illustrative 90-person engineering consultancy replacing its project-accounting system, with go-live set for January. The project lead is the operations manager and the sponsor is the managing director; people are named by role only, and clients by letter. First come the five inputs the operations manager supplied, in full, then the draft the workflow template returned.
 
 ## The inputs
 

@@ -1,10 +1,10 @@
-# Scope change impact review: tried once on its invented example
+# Scope change impact review: tried once on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (`claude-sonnet-5-5`). It did not write the template.
 - **Date:** 2026-11-10
 
-The inputs were the invented example's seven inputs (settings, baseline facts, baseline deliverables, working list, change log, request notes, estimates), exactly as published in `public/example.md`. No client data was used. The run read the template and those inputs only, followed the instructions block and the output format, and produced the review below before the example's own output was read. The two were compared afterwards.
+The inputs were the example's seven inputs (settings, baseline facts, baseline deliverables, working list, change log, request notes, estimates), exactly as published in `public/example.md`. No client data was used. The run read the template and those inputs only, followed the instructions block and the output format, and produced the review below before the example's own output was read. The two were compared afterwards.
 
 ## What came out
 
@@ -91,7 +91,7 @@ The sums were recomputed: the baseline's 6 + 12 + 18 + 5 + 8 + 6 is 55, matching
   - **"Approved" in step 4** reads as "an approved change names its Ref", while step 2 requires an approver's decision. They agree in this example, but the two steps define approval differently.
   - **The question wording and the "Asked for by" wording for a person who made a change themselves** are left to the assistant.
 - The acceptance tests in the template are marked "None has been run". This run covered only the worked example; it did not run any of the fourteen tests, so it says nothing about the stop conditions or the refusals.
-- This is one run by one model on one invented example. It shows the instructions can be followed to the published result. It is not a test for a client and says nothing about real project data.
+- This is one run by one model on one example. It shows the instructions can be followed to the published result. It is not a test for a client and says nothing about real project data.
 
 ## Edits made after this run
 

@@ -8,7 +8,7 @@ One map of everyone a project touches, each decision with one accountable owner,
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/stakeholder-and-decision-rights-map/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-stakeholder-and-decision-rights-map&from=gh-stakeholder-and-decision-rights-map)*
@@ -37,7 +37,7 @@ The project manager runs it in the weeks before kickoff, once the sponsor has ag
 
 One draft map in six parts: everyone affected, with a check of eight kinds of stakeholder a project easily forgets; the placement by influence and interest, with any difference from the project manager's own view shown for confirmation; the decision chart, each problem flagged where it stands; the missing decision makers, as questions for the sponsor; a dated communication plan, one line for each group; and the open questions for the project manager. It ends with the date of the next review and a line for the sponsor's confirmation.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -57,7 +57,7 @@ Use your own column names, mapped once to the defaults. Decide the channel for e
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template, drawing on a published open-source method credited in its sources. It was editorially reviewed on 10 November 2026. It was tried once on its invented example on 10 November 2026, and the record of that run is published with it. Small edits made after that run, following an independent review, were not run again; the record is of the earlier wording. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template, drawing on a published open-source method credited in its sources. It was editorially reviewed on 10 November 2026. It was tried once on its example on 10 November 2026, and the record of that run is published with it. Small edits made after that run, following an independent review, were not run again; the record is of the earlier wording. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past project your project manager remembers well, with hard cases written in advance: a decision with two accountable owners, an owner who leaves before the decision is due, a group nobody has been named to tell, a note that passes judgment on a colleague. The project manager checks every flag and date before the map goes to the sponsor. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-stakeholder-and-decision-rights-map&from=gh-stakeholder-and-decision-rights-map) sets up those cases, [Decision log](https://fullypowered.ai/workflows/decision-log/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-stakeholder-and-decision-rights-map&from=gh-stakeholder-and-decision-rights-map) keeps the decisions once they are made, and [Internal change announcement](https://fullypowered.ai/workflows/internal-change-announcement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-stakeholder-and-decision-rights-map&from=gh-stakeholder-and-decision-rights-map) writes the messages the plan calls for.
 
@@ -65,13 +65,13 @@ Testing in your environment means running it on a past project your project mana
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

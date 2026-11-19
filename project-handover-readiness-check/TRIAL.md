@@ -1,11 +1,11 @@
-# Project handover readiness check: tried on its invented example
+# Project handover readiness check: tried on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Sonnet 5.5 (claude-sonnet-5-5), by Anthropic.
 - **Date:** 2026-11-10
 - **Template version:** 0.1.0
 
-This trial used only the invented example in `public/example.md`: the handover settings, the requirements list and the five registers (evidence, access, training, support owners, open items). No client data was used. The model that ran it did not write the template. It read the template and the example's inputs first, produced the checklist by following the instruction block and the output format, and only then compared its checklist with the example's published output and the reviewer checklist.
+This trial used only the example in `public/example.md`: the handover settings, the requirements list and the five registers (evidence, access, training, support owners, open items). No client data was used. The model that ran it did not write the template. It read the template and the example's inputs first, produced the checklist by following the instruction block and the output format, and only then compared its checklist with the example's published output and the reviewer checklist.
 
 ## What came out
 
@@ -98,7 +98,7 @@ Prepared for the Scheduling manager's decision. Nothing has been granted, remove
   5. An access row can stand for a group of people ("4 schedulers"); the rules do not say how a group row is counted. It was counted as one row.
   6. The conditions are to be "built only from the finding", but the exact shape of a condition is left to the writer, so wording differed from the example in the small ways listed above.
 - **Stops.** The instructions asked for no stop on these inputs. The acceptance tests that cover stops (no list, renamed heading, a password, being asked to decide) were not run in this trial.
-- **Shortcomings.** This was one run, by one model, on one invented example. It shows the instructions produce a checklist whose statuses and counts agree with the published one. It does not show the template works with a real project's files, with messier headings, or in another product. It is not a test for a client.
+- **Shortcomings.** This was one run, by one model, on one example. It shows the instructions produce a checklist whose statuses and counts agree with the published one. It does not show the template works with a real project's files, with messier headings, or in another product. It is not a test for a client.
 
 ## Edits made after this run, and not run again
 

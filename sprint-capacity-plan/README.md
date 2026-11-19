@@ -8,7 +8,7 @@ Bring a draft sprint plan to planning: each person's real days, a forecast from 
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/sprint-capacity-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-sprint-capacity-plan&from=gh-project-delivery-sprint-capacity-plan)*
@@ -39,7 +39,7 @@ One draft in a fixed order: the capacity, with the working days, each person's p
 
 When estimates are in hours or days, the load by person shows whether anyone is assigned more than their share. When they are in points, it makes no such comparison, because points measure the team's work, not one person's. The draft never compares one person's output with another's.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -58,7 +58,7 @@ Map your board's column names to the template's once and keep the map with the s
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template from its own published map of the work. It was editorially reviewed on 11 November 2026. It was tried once on its invented example in Claude on 11 November 2026, and the record of that run is published with it. The run reached no stop condition; the acceptance tests were not run. It has not yet been tested in a client environment, and has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template from its own published map of the work. It was editorially reviewed on 11 November 2026. It was tried once on its example in Claude on 11 November 2026, and the record of that run is published with it. The run reached no stop condition; the acceptance tests were not run. It has not yet been tested in a client environment, and has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on two or three past sprints your team remembers well, plus hard cases written in advance, each with its expected behaviour: a sprint with a holiday inside it, a renamed column in the board export, carried work with no remaining size, an item ranked high that waits on unfinished work, a team with only one past sprint. The delivery lead checks every figure against the board and the calendar before the team relies on the draft. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-sprint-capacity-plan&from=gh-project-delivery-sprint-capacity-plan) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-sprint-capacity-plan&from=gh-project-delivery-sprint-capacity-plan) describes the record we keep.
 
@@ -66,13 +66,13 @@ Testing in your environment means running it on two or three past sprints your t
 - Sources and rights reviewed.
 - Editorially reviewed on 11 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

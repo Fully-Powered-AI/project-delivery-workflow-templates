@@ -1,10 +1,10 @@
-# Project lessons review: tried once on its invented example
+# Project lessons review: tried once on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the invented example published beside this record, in `public/example.md`: an invented 45-person accounting firm and its client document portal project. No client data was used. The assistant read the template and the six inputs (the review brief, deliverables list, change log, success measures, lessons notes and earlier changes), followed the instruction block and the output format, and produced the draft below without first seeing the published output. The two were compared afterwards. This is one run by one model; it shows that the instructions can be followed on this example, nothing more.
+The inputs are the example published beside this record, in `public/example.md`: an illustrative 45-person accounting firm and its client document portal project. No client data was used. The assistant read the template and the six inputs (the review brief, deliverables list, change log, success measures, lessons notes and earlier changes), followed the instruction block and the output format, and produced the draft below without first seeing the published output. The two were compared afterwards. This is one run by one model; it shows that the instructions can be followed on this example, nothing more.
 
 ## What came out
 

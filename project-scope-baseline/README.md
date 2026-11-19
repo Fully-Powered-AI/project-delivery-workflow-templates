@@ -8,7 +8,7 @@ Turn an approved brief into a draft scope baseline with deliverables, acceptance
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/project-scope-baseline/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-scope-baseline&from=gh-project-scope-baseline)*
@@ -42,7 +42,7 @@ A draft in a fixed order: a status line that says "draft, not baselined" and cou
 
 It is an internal working document. It is not a client statement of work and it is not a contract, and it does not become one when it is signed off.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -62,7 +62,7 @@ Decide who counts as the sponsor and who may accept a deliverable; the draft ask
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template from its own published map of the work, with no third-party text. It was editorially reviewed on 10 November 2026. It was tried once on its invented example on 10 November 2026 in Claude, and the record is published with it. The run showed the same four deliverables, the same two exclusions from the brief and the same $30,000 working; it differed on the blocking count (9 against the example's 8) and on how the shared-drive and invoice-payment remarks were classified. The edits made after that run, to the instructions on those points, to the wording of a few rules and to the example, have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template from its own published map of the work, with no third-party text. It was editorially reviewed on 10 November 2026. It was tried once on its example on 10 November 2026 in Claude, and the record is published with it. The run showed the same four deliverables, the same two exclusions from the brief and the same $30,000 working; it differed on the blocking count (9 against the example's 8) and on how the shared-drive and invoice-payment remarks were classified. The edits made after that run, to the instructions on those points, to the wording of a few rules and to the example, have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on the brief of a project you finished and remember well, then checking the draft against what the team and the sponsor argued about later: the deliverable nobody listed, the exclusion nobody wrote down, the acceptance test that was never agreed. The project manager checks every line against the sources before the draft goes to the sponsor. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-scope-baseline&from=gh-project-scope-baseline) sets up cases like these.
 
@@ -70,13 +70,13 @@ Testing in your environment means running it on the brief of a project you finis
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

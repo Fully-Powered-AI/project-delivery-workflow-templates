@@ -1,11 +1,11 @@
-# Schedule recovery options: tried twice on its invented example
+# Schedule recovery options: tried twice on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5). The same session revised the template and the example, then made this run.
 - **Date:** 2026-11-10
 - **Template version:** 0.1.0, as revised on 10 November 2026 after an independent review (a read of the template and example by a reviewer who had not written them)
 
-This is a record of runs of the workflow template on its own invented example: Company A, an invented 45-person services firm, with an invented supplier, Vendor B. No client data was used. It is not a test in any company's environment.
+This is a record of runs of the workflow template on its own example: Company A, an illustrative 45-person services firm, with an illustrative supplier, Vendor B. No client data was used. It is not a test in any company's environment.
 
 This is the second run. The first run (earlier on 10 November 2026) used the template and example as first written; its output and observations are kept below as recorded. The run recorded immediately below was made on the revised template and the revised inputs in [public/example.md](example.md).
 
@@ -85,7 +85,7 @@ Decision for the Managing director: choose one option or combination; the Test l
 - Every fact in the output is in the inputs or follows from the calendar. Every item under Not known carries an answerer. Where the inputs gave no answerer for the question about a shared person, I named the two leads whose tasks overlap.
 - Differences from the published example: I could not make this run independent of it. The same session revised both, and I had the example's text in view, so the close agreement is not evidence that the instructions alone produce it. The differences are in wording only, not in dates: the run's dependency lines are shorter and omit "No request has been made"; the run omits the example's "hypercare covers Finance's close week" notes; it adds that hypercare is counted from go-live day, that UAT starts on Mon 5 Jul as forecast, and a note on why Options 1 and 3 overlap; it states the capacity formula's terms (R, n, k, u).
 - Still open: the run was not repeated on another model, and the instruction block's sensitivity to a different set of inputs has not been tried. Stop conditions, the range forecast, the "not stated" cause, a missing export date and a passed latest-date-to-ask were not exercised by the example.
-- This is one run, by one model, on one invented example. It is not a test for a client.
+- This is one run, by one model, on one example. It is not a test for a client.
 
 ## What was changed after the earlier run
 
@@ -189,5 +189,5 @@ Decision for the Managing director: choose one option or combination; the Test l
   9. The acceptance tests refer to options by number (for example "Options 1, 2 and 3 together"), but the template does not fix the order of options.
   10. When computing the latest date to ask a supplier, I used the new go-live date minus the notice. The template says "the new date" without saying whether that is go-live or the start of support.
 - No fact in my output is missing from the inputs, apart from the two guesses above (the audience and the preparation date) and the working-day counts, which follow from the calendar.
-- This is one run, by one model, on one invented example. It shows the instructions can be followed to a page that matches the published one on dates. It is not a test for a client.
+- This is one run, by one model, on one example. It shows the instructions can be followed to a page that matches the published one on dates. It is not a test for a client.
 

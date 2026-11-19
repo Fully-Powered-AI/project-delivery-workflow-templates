@@ -1,10 +1,10 @@
-# Trial: Project status report, run on its invented example
+# Trial: Project status report, run on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID claude-opus-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in [public/example.md](example.md): the settings, the milestone plan, the four workstream updates, the last report and the project lead's notes. No client data was used. The assistant followed the instruction block and the output format in the template as they stand after the revisions described below.
+The inputs are the example in [public/example.md](example.md): the settings, the milestone plan, the four workstream updates, the last report and the project lead's notes. No client data was used. The assistant followed the instruction block and the output format in the template as they stand after the revisions described below.
 
 This is the third run on the example, all on the same day in the same product. The first, with Claude Sonnet 5.5, found the open points that led to the first revisions: no stated order for the dates at risk, no stated way to write a forecast with two branches, no rule for how much overlap makes "amber again, same reason", no place in the Next line for "past due", no check on the milestone count, and no measure for the one-page limit. The second, with Claude Opus 5.5, settled those and left others, which an independent review then took up. After that review the template gained two gaps (a blocker with no workaround and no date for clearing it; a decision option with no forecast for a milestone further down the chain), a rule for which workstream a sponsor decision counts against, and a stated date style; the example's last report now gives the licence blocker as one of Reporting's reasons and names the workstream of its open decision. Two edits made after the second run (the order in which the draft is shortened, and the 800-word limit as a setting) had not been run; this run uses them. The records of the earlier runs are replaced by this one.
 

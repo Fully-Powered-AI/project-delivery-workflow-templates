@@ -141,7 +141,7 @@ Dates: the title line and the header lines give full dates, such as 9 November 2
 
 ## Acceptance tests
 
-Proposed tests. None has been run as a test. The invented example happens to contain the cases of tests 3, 4, 5, 6, 7 and 9; that is not a run of the tests.
+Proposed tests. None has been run as a test. The example happens to contain the cases of tests 3, 4, 5, 6, 7 and 9; that is not a run of the tests.
 
 1. **Ordinary period.** Every project reports a colour with a reason, no decisions, no contradictions. Expected: every status copied, "None this period", "None found", "None"; no overall colour.
 2. **Unmatched heading.** The register has `Owner` instead of `Lead`. Expected: stops, names `Owner` and the missing `Lead`, and asks.
@@ -277,4 +277,4 @@ the page.
 
 ## Version notes
 
-- 0.1.0, 12 November 2026. Written by FullyPowered AI as an original workflow template, with no third-party source. Editorially reviewed. Tried once on its invented example on 12 November 2026 in Claude; the run was not fully blind, and its record is published with it. Its findings were then acted on in the steps and the pasted instructions (event dates as forecasts, a stated alternative as an option, the numbering of new decisions, what the decisions count covers, one contradiction per fact, gap 5 only for a colour, one phrase for "more than one colour stated", the date forms); those edits have not been run again. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 12 November 2026. Written by FullyPowered AI as an original workflow template, with no third-party source. Editorially reviewed. Tried once on its example on 12 November 2026 in Claude; the run was not fully blind, and its record is published with it. Its findings were then acted on in the steps and the pasted instructions (event dates as forecasts, a stated alternative as an option, the numbering of new decisions, what the decisions count covers, one contradiction per fact, gap 5 only for a colour, one phrase for "more than one colour stated", the date forms); those edits have not been run again. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

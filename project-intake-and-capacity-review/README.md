@@ -8,7 +8,7 @@ Score a new initiative beside committed projects and see the delivery days it wo
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/project-intake-and-capacity-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-intake-and-capacity-review&from=gh-project-intake-and-capacity-review)*
@@ -38,7 +38,7 @@ The portfolio owner or the operations lead runs it when a proposal arrives and b
 
 A short review, up to two pages, in a fixed order: the proposal in brief, its score ranked among the committed projects with the evidence for each score, the monthly load by role, the over-ceiling months with the committed work that would have to give way, the start months tested, the gaps and questions, and the decision laid out for the portfolio owner. Any section with nothing to report says so. If the capacity or the project export does not match the expected headings, nothing is calculated until someone says which column is which.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -57,7 +57,7 @@ Write your own criteria and weights, and say in a line what a 1, a 3 and a 5 mea
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template, drawing on one published open-source method credited in its sources. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record of that run is published with it. The run produced every part of the review and reached no stop condition; the acceptance tests in the template were not run. After an earlier run, the example was made to say where its count came from, the scoring of a goal and the treatment of a 0-day row were settled in the instructions, and the run on this version is the one recorded. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template, drawing on one published open-source method credited in its sources. It was editorially reviewed on 10 November 2026. It was tried once on its example in Claude on 10 November 2026, and the record of that run is published with it. The run produced every part of the review and reached no stop condition; the acceptance tests in the template were not run. After an earlier run, the example was made to say where its count came from, the scoring of a goal and the treatment of a 0-day row were settled in the instructions, and the run on this version is the one recorded. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on two or three past proposals whose outcome you already know, with hard cases written in advance: a proposal with no stated benefit, a role already over its ceiling before the proposal, fixed work that makes the gap unsolvable, a capacity export with a renamed column. The portfolio owner checks every score and every day count before anyone relies on it. [Project status report](https://fullypowered.ai/workflows/project-status-report/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-intake-and-capacity-review&from=gh-project-intake-and-capacity-review) then reports on a project once it is running, and [Headcount plan](https://fullypowered.ai/workflows/headcount-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-intake-and-capacity-review&from=gh-project-intake-and-capacity-review) is the place to look when the answer to a capacity gap is more people.
 
@@ -65,13 +65,13 @@ Testing in your environment means running it on two or three past proposals whos
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

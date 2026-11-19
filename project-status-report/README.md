@@ -8,7 +8,7 @@ Give the sponsor a two-minute status report with red, amber or green per workstr
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/project-status-report/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-status-report&from=gh-project-status-report)*
@@ -39,7 +39,7 @@ One page for the sponsor, in a fixed order: the overall colour with a one-senten
 
 Beneath it, a short part for the project lead only, removed before sending: milestones claimed as done that the evidence does not support, every colour listed for confirmation with any reason for doubt, and gaps such as a blocker nobody owns. The lead signs off there before the report goes.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -57,7 +57,7 @@ Decide who sponsors each project and on which day the report reaches them. Agree
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template, drawing on two published open-source methods credited in its sources. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in Claude, in three runs: the instructions were tightened after the first and again after an independent review of the second, and the record of the third is published with it. That run reached the expected colours, counts, order and open questions for the project lead, and left a few points for judgement: whether a forecast that holds only on a condition is enough, and a one-page limit the example only just meets. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template, drawing on two published open-source methods credited in its sources. It was editorially reviewed on 10 November 2026. It was tried on its example on 10 November 2026 in Claude, in three runs: the instructions were tightened after the first and again after an independent review of the second, and the record of the third is published with it. That run reached the expected colours, counts, order and open questions for the project lead, and left a few points for judgement: whether a forecast that holds only on a condition is enough, and a one-page limit the example only just meets. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on two or three past periods of a project your lead remembers, with hard cases written in advance: a milestone claimed done without proof, a blocker with no owner, a decision past its date, a workstream lead who rates their own work greener than the rules allow. The project lead checks every colour and date against the plan before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-status-report&from=gh-project-status-report) sets up those cases, and [Decision log](https://fullypowered.ai/workflows/decision-log/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-status-report&from=gh-project-status-report) keeps the sponsor's answers once they are given.
 
@@ -65,13 +65,13 @@ Testing in your environment means running it on two or three past periods of a p
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

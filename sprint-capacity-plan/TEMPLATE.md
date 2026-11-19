@@ -137,7 +137,7 @@ Print "None." under any heading with nothing to report. If a figure could not be
 
 ## Acceptance tests
 
-Proposed tests. None has been run as a test. The invented example in the public example was tried once; the record is `public/trial.md`.
+Proposed tests. None has been run as a test. The example in the public example was tried once; the record is `public/trial.md`.
 
 1. **Ordinary iteration.** Ten working days, everyone in, three past iterations, two carried items with remaining sizes. Expected: forecast computed, carried items first, line drawn, all sections complete.
 2. **Closed days.** Two closed days inside the iteration and a day out that falls on one of them. Expected: both skipped; the day out not counted and listed under assumptions.
@@ -256,4 +256,4 @@ repeat it and tell the user to remove it.
 
 ## Version notes
 
-- 0.1.0, 11 November 2026. Written by FullyPowered AI from its own published map of the work. Editorially reviewed on 11 November 2026. Tried once on its invented example in Claude on 11 November 2026, and the record of that run is published with it. The run reached no stop condition; the acceptance tests were not run. Not yet tested in a client environment. After the run, small edits followed and were not re-run: a Remaining of 0 on an unfinished item, a below-the-line item that waits on a set-aside item, and the counting of done rows are now covered, and the stop list and the wording of the history rule were made to agree. The example now shows the Tester's closed-day absence inline; none of these changes any figure.
+- 0.1.0, 11 November 2026. Written by FullyPowered AI from its own published map of the work. Editorially reviewed on 11 November 2026. Tried once on its example in Claude on 11 November 2026, and the record of that run is published with it. The run reached no stop condition; the acceptance tests were not run. Not yet tested in a client environment. After the run, small edits followed and were not re-run: a Remaining of 0 on an unfinished item, a below-the-line item that waits on a set-aside item, and the counting of done rows are now covered, and the stop list and the wording of the history rule were made to agree. The example now shows the Tester's closed-day absence inline; none of these changes any figure.

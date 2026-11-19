@@ -1,6 +1,6 @@
-# Sprint plan against capacity: an invented example
+# Sprint plan against capacity: an example
 
-*Illustrative example with invented data.* The company, the team, the people, the items and every figure below are invented. The company is an invented 60-person business that sells appointment-booking software; its booking team works in two-week sprints. People are named by role and letter only. The delivery lead prepared the draft on the Friday the ending sprint closed, for the planning meeting the following Monday. First come the five inputs the delivery lead supplied, in full, then the draft the workflow template returned.
+*Illustrative example with sample data.* The company, the team, the people, the items and every figure below are illustrative. The company is an illustrative 60-person business that sells appointment-booking software; its booking team works in two-week sprints. People are named by role and letter only. The delivery lead prepared the draft on the Friday the ending sprint closed, for the planning meeting the following Monday. First come the five inputs the delivery lead supplied, in full, then the draft the workflow template returned.
 
 ## The inputs
 

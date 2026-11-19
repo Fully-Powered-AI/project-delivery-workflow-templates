@@ -1,6 +1,6 @@
-# Project scope baseline: an invented example
+# Project scope baseline: an example
 
-*Illustrative example with invented data.* The firm, its people, the vendor, the project and every date and figure below are invented. The firm is an invented 60-person professional services firm putting a client document portal in place. The sponsor is the managing partner and the project manager is the operations manager; people are named by role only, and the vendor is called Vendor A. First come the four inputs the operations manager supplied, in full, then the draft the workflow template returned. No working deliverable list existed, so none was supplied.
+*Illustrative example with sample data.* The firm, its people, the vendor, the project and every date and figure below are illustrative. The firm is an illustrative 60-person professional services firm putting a client document portal in place. The sponsor is the managing partner and the project manager is the operations manager; people are named by role only, and the vendor is called Vendor A. First come the four inputs the operations manager supplied, in full, then the draft the workflow template returned. No working deliverable list existed, so none was supplied.
 
 ## The inputs
 

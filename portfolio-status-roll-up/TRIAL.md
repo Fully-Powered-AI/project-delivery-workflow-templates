@@ -1,10 +1,10 @@
-# Project portfolio status roll-up: trial on the invented example
+# Project portfolio status roll-up: trial on the example
 
 - **Product:** Claude, run in Claude Code
 
 **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5). **Date:** 2026-11-12.
 
-The inputs are the invented example in `public/example.md` (the settings, the register of five projects, four status reports, the last roll-up and the decision notes). No client data was used. The run followed the instruction block in `member/template.md` and its output format. The model that ran it did not write the template.
+The inputs are the example in `public/example.md` (the settings, the register of five projects, four status reports, the last roll-up and the decision notes). No client data was used. The run followed the instruction block in `member/template.md` and its output format. The model that ran it did not write the template.
 
 One thing to know before reading the result: this was meant to be a blind run, with the example's output read only afterwards. It was not fully blind. While reading the inputs, the model's file display ran on past them and showed the example's output before the run was made. The run below was done after that, so it may lean toward the published example. It still followed the template's steps, and the differences found are real, but a clean trial would use a reader who has not seen the output.
 

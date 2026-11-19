@@ -129,7 +129,7 @@ Dates: the title line and the header lines give full dates, such as 13 November 
 
 ## Acceptance tests
 
-Proposed tests. None has been run. The invented example happens to contain the cases of tests 3, 4, 5, 6, 7, 14 and 15, and the recorded trial handled each as expected; that is not a run of the tests.
+Proposed tests. None has been run. The example happens to contain the cases of tests 3, 4, 5, 6, 7, 14 and 15, and the recorded trial handled each as expected; that is not a run of the tests.
 
 1. **Ordinary week.** Every milestone due this period is done with matching evidence; no blockers; no decisions. Expected: every workstream green, overall green, empty sections say so.
 2. **Done without evidence.** A workstream lead says a milestone is done but supplies no evidence. Expected: left open, listed under "Not reported as done", and red if its date has passed.
@@ -266,4 +266,4 @@ and count the words of the sponsor's part.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried on its invented example on 10 November 2026 in Claude, in three runs: the instructions were revised after the first, and again after an independent review of the second, adding the gaps for a blocker with no date to clear it and a decision option with no forecast, the rule for which workstream a decision counts against, and the date style. The third is the run recorded, published with the template. That run left open points the trial record lists: whether a forecast with a condition counts as given, and an 800-word limit this example only just meets; the order of shortening and a decision with no workstream were not exercised. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried on its example on 10 November 2026 in Claude, in three runs: the instructions were revised after the first, and again after an independent review of the second, adding the gaps for a blocker with no date to clear it and a decision option with no forecast, the rule for which workstream a decision counts against, and the date style. The third is the run recorded, published with the template. That run left open points the trial record lists: whether a forecast with a condition counts as given, and an 800-word limit this example only just meets; the order of shortening and a decision with no workstream were not exercised. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

@@ -8,7 +8,7 @@ Check a finished deliverable against the receiving team's own requirements: evid
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/project-handover-readiness-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-handover-readiness-check&from=gh-project-handover-readiness-check)*
@@ -41,7 +41,7 @@ Each list has set column headings. If a heading does not match, the assistant st
 
 One checklist, in a fixed order. At the top, a count: how many must-haves are met and how many conditions are open. Then every requirement by area with its status, the evidence behind it and what is missing. Then the proposed conditions, each written as what must be true, with the owner and date left for the receiving owner. Then the support cover after handover with any gap in days, every open item carried into operation with the most serious first, and anything supplied that answers no requirement. It ends with a blank decision box for the receiving owner to complete.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -60,7 +60,7 @@ The receiving owner writes the requirements list once for each kind of deliverab
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template from its own published map of the work. It was editorially reviewed on 10 November 2026. It was tried once on its invented example on 10 November 2026, and the record is published with it. Small edits made to the template after that run were not run again; the record lists them. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template from its own published map of the work. It was editorially reviewed on 10 November 2026. It was tried once on its example on 10 November 2026, and the record is published with it. Small edits made to the template after that run were not run again; the record lists them. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on two or three past handovers your receiving owners remember, plus hard cases written in advance, each with its expected result: a guide offered where a demonstration is required, a support owner who never agreed, a gap in support cover, a list with a renamed column, an access list with a password typed into it. The project manager and the receiving owner check every status and every date before anyone relies on the checklist. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-handover-readiness-check&from=gh-project-handover-readiness-check) sets those cases up, and [SOP from how the work is done](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-handover-readiness-check&from=gh-project-handover-readiness-check) writes the operating guide the receiving team will need.
 
@@ -68,13 +68,13 @@ Testing in your environment means running it on two or three past handovers your
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

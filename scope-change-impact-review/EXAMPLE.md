@@ -1,6 +1,6 @@
-# Scope change impact review: an invented example
+# Scope change impact review: an example
 
-*Illustrative example with invented data.* The firm, its people, the project and every date and figure below are invented. The firm is an invented 70-person accounting and advisory firm building a client portal, where clients upload documents, see where their work stands and book time with an adviser. The project manager runs the project, the operations director sponsors it and the portal lead estimates the work; people are named by role only. On Tuesday 10 November 2026 the project manager supplied the seven inputs below, in full, and got back the review that follows.
+*Illustrative example with sample data.* The firm, its people, the project and every date and figure below are illustrative. The firm is an illustrative 70-person accounting and advisory firm building a client portal, where clients upload documents, see where their work stands and book time with an adviser. The project manager runs the project, the operations director sponsors it and the portal lead estimates the work; people are named by role only. On Tuesday 10 November 2026 the project manager supplied the seven inputs below, in full, and got back the review that follows.
 
 ## The inputs
 

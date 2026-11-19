@@ -1,10 +1,10 @@
-# Project intake and capacity review: trial on the invented example
+# Project intake and capacity review: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-This is the record of one run on the invented example, made after the template and the example were revised following an earlier run and an independent review. The inputs were the invented example in `public/example.md` (the settings, the four committed projects, the delivery days, the days available and the booking-tool proposal), as revised. No client data was used. The same session that revised the template made this run, so it is not an independent reading of the instructions; the output below was produced from the template and the inputs, and compared with the published output afterwards.
+This is the record of one run on the example, made after the template and the example were revised following an earlier run and an independent review. The inputs were the example in `public/example.md` (the settings, the four committed projects, the delivery days, the days available and the booking-tool proposal), as revised. No client data was used. The same session that revised the template made this run, so it is not an independent reading of the instructions; the output below was produced from the template and the inputs, and compared with the published output afterwards.
 
 ## What came out
 
@@ -80,7 +80,7 @@ An earlier run on the previous version gave Value 3 (weighted 3.10) because the 
 
 No instruction told me to stop on these inputs. Every fact in my output is in the inputs supplied, apart from the arithmetic derived from them.
 
-This run adds a single trial on an invented example to the template's record; it is not a test in a client environment.
+This run adds a single trial on an example to the template's record; it is not a test in a client environment.
 
 ## Changes made after this run
 

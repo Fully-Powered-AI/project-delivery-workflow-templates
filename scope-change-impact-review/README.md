@@ -8,7 +8,7 @@ Compare a project plan with the agreed baseline and see each addition's effect o
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Project and delivery · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/scope-change-impact-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-scope-change-impact-review&from=gh-scope-change-impact-review)*
@@ -42,7 +42,7 @@ One review in a fixed order. At the top, the position: the baseline, the approve
 
 Beneath it, a short part for the project manager only, removed before sharing: the questions to settle first, such as who asked for an addition nobody can trace, or whether work started without approval carries on.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -60,7 +60,7 @@ Name who sponsors each project and which roles may approve a change; some compan
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template from its own published map of project and delivery work. It was editorially reviewed on 10 November 2026. It was tried once on its invented example on 10 November 2026 in Claude, and the run matched the example in every figure, date, order and count. It left a few points for judgement, which the published record lists: what the money figure in the position is, whether a moved date needs its own approval, and how to treat a change the requester made themselves. Small clarifications made afterward have not been run again. It has not yet been tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template from its own published map of project and delivery work. It was editorially reviewed on 10 November 2026. It was tried once on its example on 10 November 2026 in Claude, and the run matched the example in every figure, date, order and count. It left a few points for judgement, which the published record lists: what the money figure in the position is, whether a moved date needs its own approval, and how to treat a change the requester made themselves. Small clarifications made afterward have not been run again. It has not yet been tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on two or three past changes your project manager remembers, plus hard cases written in advance: an addition agreed only in a meeting, a deliverable that grew from 40 items to 55, a declined change still in the plan, a change with no estimate, and two changes that each move the end date. The project manager checks every figure against the estimates and the change log before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-scope-change-impact-review&from=gh-scope-change-impact-review) sets those cases up, and [Decision log](https://fullypowered.ai/workflows/decision-log/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-scope-change-impact-review&from=gh-scope-change-impact-review) keeps the sponsor's answers once they are given.
 
@@ -68,13 +68,13 @@ Testing in your environment means running it on two or three past changes your p
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

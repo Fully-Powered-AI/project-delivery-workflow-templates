@@ -1,6 +1,6 @@
-# Project portfolio status roll-up: an invented example
+# Project portfolio status roll-up: an example
 
-*Illustrative example with invented data.* The company, its people, its projects, its suppliers and every date and figure below are invented. The company is an invented 130-person maker of commercial kitchen equipment running five internal projects at once. The head of operations runs the roll-up each fortnight for the leadership team. People are named by role only. First come the five inputs the head of operations supplied, in full, then the draft the workflow template returned.
+*Illustrative example with sample data.* The company, its people, its projects, its suppliers and every date and figure below are illustrative. The company is an illustrative 130-person maker of commercial kitchen equipment running five internal projects at once. The head of operations runs the roll-up each fortnight for the leadership team. People are named by role only. First come the five inputs the head of operations supplied, in full, then the draft the workflow template returned.
 
 ## The inputs
 

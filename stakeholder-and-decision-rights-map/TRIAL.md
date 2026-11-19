@@ -1,10 +1,10 @@
-# Stakeholder and decision rights map: tried once on its invented example
+# Stakeholder and decision rights map: tried once on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in `public/example.md` (the brief, the stakeholder list, the decision list, the project manager's notes and the settings). No client data was used. The run was made by an assistant that had not written the template. It followed the instruction block and the output format in `member/template.md` on those inputs, and only afterwards compared its result with the published example output and the reviewer checklist.
+The inputs are the example in `public/example.md` (the brief, the stakeholder list, the decision list, the project manager's notes and the settings). No client data was used. The run was made by an assistant that had not written the template. It followed the instruction block and the output format in `member/template.md` on those inputs, and only afterwards compared its result with the published example output and the reviewer checklist.
 
 ## What came out
 
@@ -106,7 +106,7 @@ Where the template was ambiguous, and the run had to choose:
 8. **Told by on one-person rows.** Section 1 prints "blank" where the list is blank, while section 5 says "project manager". This is correct by the rules but reads as an inconsistency.
 9. **Controls against the decision chart.** The finance controller "approves the scanner purchase" but is only informed of the purchase decision (D2). The template does not check what a row controls against what it is accountable for, so this passed unflagged. The sponsor may want to look at it.
 
-Shortcomings of this single run. It tested one invented example, by one assistant, in one product. It did not test the stop conditions (an unmatched heading, no brief, a request to send a message), the acceptance tests in the template, or an input with a vacancy before a consult date. Nothing here shows how it behaves with real lists, longer decision lists or other AI products.
+Shortcomings of this single run. It tested one example, by one assistant, in one product. It did not test the stop conditions (an unmatched heading, no brief, a request to send a message), the acceptance tests in the template, or an input with a vacancy before a consult date. Nothing here shows how it behaves with real lists, longer decision lists or other AI products.
 
 ## After the run
 

@@ -1,10 +1,10 @@
-# Trial: Sprint plan against capacity, run once on its invented example
+# Trial: Sprint plan against capacity, run once on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-11
 
-The inputs were the invented example in `public/example.md` (the settings, board export, team availability, recent delivery and the product owner's notes). No client data was used. I did not write the template. I followed its instruction block and output format on those inputs, then compared the result with the published example output and the reviewer checklist.
+The inputs were the example in `public/example.md` (the settings, board export, team availability, recent delivery and the product owner's notes). No client data was used. I did not write the template. I followed its instruction block and output format on those inputs, then compared the result with the published example output and the reviewer checklist.
 
 One limit on this trial: the example file holds its inputs and its output together, and my first read of it showed both. So I did not produce my draft blind. I worked every figure out again from the inputs, and I treat the match with the published output as a check of the arithmetic, not as independent proof that the instructions lead to it.
 
@@ -109,6 +109,6 @@ Every figure traces to the board export of Friday 13 November 2026, the availabi
 
 Notes added by an editor after the trier finished, not observations from the run.
 
-- The template's version note, which said it had not been tried on its invented example, was out of date and has been updated.
+- The template's version note, which said it had not been tried on its example, was out of date and has been updated.
 - After an independent review, small edits followed to the template, the profile and the example's question 6 wording, and later to the wording about blank cells, days out on closed days and the order of the draft. The trial's output above was not changed. The example now shows the Tester's closed-day absence inline, as this run did. The edits were not re-run.
 - A later review pass changed the template only in wording and numbering (the range now states that it uses the unrounded rates, the instruction block's steps are numbered as the procedure's are, and the settings note says which choices need a block edit), and the example only in one punctuation mark. No figure or output changed and the run was not repeated. The trial's output above is as recorded.
