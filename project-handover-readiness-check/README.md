@@ -1,6 +1,6 @@
 # Project handover readiness check
 
-Check a finished deliverable against the receiving team's own requirements: evidence, access, training, support owners and open items. The owner decides.
+Check a finished deliverable against the receiving team's own requirements: evidence, access, training, support owners and open items. Free template.
 
 > [!TIP]
 > **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Project handover readiness check on our website](https://fullypowered.ai/workflows/project-handover-readiness-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=project-delivery-project-handover-readiness-check&from=gh-project-handover-readiness-check). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
